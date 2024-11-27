@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="style_79">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_78">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_76">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_75">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_70">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_69">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_67">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_72">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_65">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_63">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_62">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_61">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_74">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_66">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_59">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_56">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_54">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_52">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_50">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_49">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_48">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_53">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_47">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_77">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_0">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_19">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_46">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_30">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_43">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_64">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_4">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_41">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_11">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_40">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_71">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_68">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_60">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_39">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_38">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_42">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_36">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_35">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_34">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_33">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_21">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_27">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_32">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_29">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_28">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_51">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_25">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_80">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_55">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_45">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_23">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_9">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_22">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_31">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_3">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_44">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_20">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_16">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_15">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_14">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_17">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_26">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_13">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_12">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_18">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_8">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_58">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_24">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_7">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_57">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_6">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_10">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_5">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_37">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_2">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_73">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style_1">
+		<IconStyle>
+			<scale>2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>tiles-24-250-242-0.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<Style id="style_80">
+			<IconStyle>
+				<scale>2</scale>
+				<heading>0</heading>
+				<Icon>
+					<href>tiles-24-250-242-0.png</href>
+					<refreshInterval>0</refreshInterval>
+					<viewRefreshTime>0</viewRefreshTime>
+					<viewBoundScale>0</viewBoundScale>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>개암사</name>
+			<description>Id: 개암사
+Label: 개암사
+Interval: null
+long: 126.6492
+lat: 35.66279</description>
+			<styleUrl>#style_0</styleUrl>
+			<Point>
+				<coordinates>126.6492,35.66279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>경묵당</name>
+			<description>Id: 경묵당
+Label: 경묵당
+Interval: null
+long: 126.974
+lat: 37.57161</description>
+			<styleUrl>#style_1</styleUrl>
+			<Point>
+				<coordinates>126.974,37.57161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>경포대</name>
+			<description>Id: 경포대
+Label: 경포대
+Interval: null
+long: 128.8966
+lat: 37.79525</description>
+			<styleUrl>#style_2</styleUrl>
+			<Point>
+				<coordinates>128.8966,37.79525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>과지초당</name>
+			<description>Id: 과지초당
+Label: 과지초당
+Interval: null
+long: 127.0287
+lat: 37.45306</description>
+			<styleUrl>#style_3</styleUrl>
+			<Point>
+				<coordinates>127.0287,37.45306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>관립공업전습소</name>
+			<description>Id: 관립공업전습소
+Label: 관립공업전습소
+Interval: null
+long: 126.9337
+lat: 37.50838</description>
+			<styleUrl>#style_4</styleUrl>
+			<Point>
+				<coordinates>126.9337,37.50838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>구담봉</name>
+			<description>Id: 구담봉
+Label: 구담봉
+Interval: null
+long: 128.2469
+lat: 36.93789</description>
+			<styleUrl>#style_5</styleUrl>
+			<Point>
+				<coordinates>128.2469,36.93789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산</name>
+			<description>Id: 금강산
+Label: 금강산
+Interval: null
+long: 128.1048
+lat: 38.65706</description>
+			<styleUrl>#style_6</styleUrl>
+			<Point>
+				<coordinates>128.1048,38.65706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 구룡연</name>
+			<description>Id: 금강산 구룡연
+Label: 금강산 구룡연
+Interval: null
+long: 128.137278
+lat: 38.674333</description>
+			<styleUrl>#style_7</styleUrl>
+			<Point>
+				<coordinates>128.137278,38.674333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 명경대</name>
+			<description>Id: 금강산 명경대
+Label: 금강산 명경대
+Interval: null
+long: 128.082222
+lat: 38.616111</description>
+			<styleUrl>#style_8</styleUrl>
+			<Point>
+				<coordinates>128.082222,38.616111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 백운대</name>
+			<description>Id: 금강산 백운대
+Label: 금강산 백운대
+Interval: null
+long: 128.098889
+lat: 38.642222</description>
+			<styleUrl>#style_9</styleUrl>
+			<Point>
+				<coordinates>128.098889,38.642222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 백화암</name>
+			<description>Id: 금강산 백화암
+Label: 금강산 백화암
+Interval: null
+long: 128.067472
+lat: 38.627028</description>
+			<styleUrl>#style_10</styleUrl>
+			<Point>
+				<coordinates>128.067472,38.627028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 보덕암</name>
+			<description>Id: 금강산 보덕암
+Label: 금강산 보덕암
+Interval: null
+long: 128.080278
+lat: 38.635778</description>
+			<styleUrl>#style_11</styleUrl>
+			<Point>
+				<coordinates>128.080278,38.635778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 비로봉</name>
+			<description>Id: 금강산 비로봉
+Label: 금강산 비로봉
+Interval: null
+long: 128.105558
+lat: 38.656146</description>
+			<styleUrl>#style_12</styleUrl>
+			<Point>
+				<coordinates>128.105558,38.656146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 장안사</name>
+			<description>Id: 금강산 장안사
+Label: 금강산 장안사
+Interval: null
+long: 128.067194
+lat: 38.613194</description>
+			<styleUrl>#style_13</styleUrl>
+			<Point>
+				<coordinates>128.067194,38.613194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 정양사</name>
+			<description>Id: 금강산 정양사
+Label: 금강산 정양사
+Interval: null
+long: 128.0627
+lat: 38.63245</description>
+			<styleUrl>#style_14</styleUrl>
+			<Point>
+				<coordinates>128.0627,38.63245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>금강산 표훈사</name>
+			<description>Id: 금강산 표훈사
+Label: 금강산 표훈사
+Interval: null
+long: 128.067833
+lat: 38.630361</description>
+			<styleUrl>#style_15</styleUrl>
+			<Point>
+				<coordinates>128.067833,38.630361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>기호학교</name>
+			<description>Id: 기호학교
+Label: 기호학교
+Interval: null
+long: 126.9869
+lat: 37.58428</description>
+			<styleUrl>#style_16</styleUrl>
+			<Point>
+				<coordinates>126.9869,37.58428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>김수철의 집</name>
+			<description>Id: 김수철의 집
+Label: 김수철의 집
+Interval: null
+long: 127.0615
+lat: 37.6095</description>
+			<styleUrl>#style_17</styleUrl>
+			<Point>
+				<coordinates>127.0615,37.6095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>김정희의 집</name>
+			<description>Id: 김정희의 집
+Label: 김정희의 집
+Interval: null
+long: 126.9717
+lat: 37.57734</description>
+			<styleUrl>#style_18</styleUrl>
+			<Point>
+				<coordinates>126.9717,37.57734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>낙산사</name>
+			<description>Id: 낙산사
+Label: 낙산사
+Interval: null
+long: 128.628
+lat: 38.12473</description>
+			<styleUrl>#style_19</styleUrl>
+			<Point>
+				<coordinates>128.628,38.12473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>남공철의 집</name>
+			<description>Id: 남공철의 집
+Label: 남공철의 집
+Interval: null
+long: 127.0686
+lat: 37.4097</description>
+			<styleUrl>#style_20</styleUrl>
+			<Point>
+				<coordinates>127.0686,37.4097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>남산</name>
+			<description>Id: 남산
+Label: 남산
+Interval: null
+long: 126.981
+lat: 37.55387</description>
+			<styleUrl>#style_21</styleUrl>
+			<Point>
+				<coordinates>126.981,37.55387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>남송현</name>
+			<description>Id: 남송현
+Label: 남송현
+Interval: null
+long: 126.98
+lat: 37.56225</description>
+			<styleUrl>#style_22</styleUrl>
+			<Point>
+				<coordinates>126.98,37.56225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>담졸헌</name>
+			<description>Id: 담졸헌
+Label: 담졸헌
+Interval: null
+long: 126.9952
+lat: 37.56944</description>
+			<styleUrl>#style_23</styleUrl>
+			<Point>
+				<coordinates>126.9952,37.56944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>대흥사 일지암</name>
+			<description>Id: 대흥사 일지암
+Label: 대흥사 일지암
+Interval: null
+long: 126.6163
+lat: 34.47618</description>
+			<styleUrl>#style_24</styleUrl>
+			<Point>
+				<coordinates>126.6163,34.47618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>도봉서원</name>
+			<description>Id: 도봉서원
+Label: 도봉서원
+Interval: null
+long: 127.0292
+lat: 37.68824</description>
+			<styleUrl>#style_25</styleUrl>
+			<Point>
+				<coordinates>127.0292,37.68824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>도화서</name>
+			<description>Id: 도화서
+Label: 도화서
+Interval: null
+long: 126.9836
+lat: 37.56665</description>
+			<styleUrl>#style_26</styleUrl>
+			<Point>
+				<coordinates>126.9836,37.56665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>만구음관</name>
+			<description>Id: 만구음관
+Label: 만구음관
+Interval: null
+long: 126.0967
+lat: 35.06416</description>
+			<styleUrl>#style_27</styleUrl>
+			<Point>
+				<coordinates>126.0967,35.06416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>망양정</name>
+			<description>Id: 망양정
+Label: 망양정
+Interval: null
+long: 129.4125
+lat: 36.96732</description>
+			<styleUrl>#style_28</styleUrl>
+			<Point>
+				<coordinates>129.4125,36.96732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>망월사</name>
+			<description>Id: 망월사
+Label: 망월사
+Interval: null
+long: 127.0214
+lat: 37.70486</description>
+			<styleUrl>#style_29</styleUrl>
+			<Point>
+				<coordinates>127.0214,37.70486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>묘길상마애불</name>
+			<description>Id: 묘길상마애불
+Label: 묘길상마애불
+Interval: null
+long: 128.0962
+lat: 38.64097</description>
+			<styleUrl>#style_30</styleUrl>
+			<Point>
+				<coordinates>128.0962,38.64097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>반송지</name>
+			<description>Id: 반송지
+Label: 반송지
+Interval: null
+long: 126.9577
+lat: 37.57058</description>
+			<styleUrl>#style_31</styleUrl>
+			<Point>
+				<coordinates>126.9577,37.57058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>병영교회</name>
+			<description>Id: 병영교회
+Label: 병영교회
+Interval: null
+long: 129.3458
+lat: 35.57458</description>
+			<styleUrl>#style_32</styleUrl>
+			<Point>
+				<coordinates>129.3458,35.57458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북악산</name>
+			<description>Id: 북악산
+Label: 북악산
+Interval: null
+long: 126.9734
+lat: 37.59367</description>
+			<styleUrl>#style_33</styleUrl>
+			<Point>
+				<coordinates>126.9734,37.59367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>사인암</name>
+			<description>Id: 사인암
+Label: 사인암
+Interval: null
+long: 128.3404
+lat: 36.89453</description>
+			<styleUrl>#style_34</styleUrl>
+			<Point>
+				<coordinates>128.3404,36.89453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>사포서</name>
+			<description>Id: 사포서
+Label: 사포서
+Interval: null
+long: 126.9797
+lat: 37.57447</description>
+			<styleUrl>#style_35</styleUrl>
+			<Point>
+				<coordinates>126.9797,37.57447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서화미술회</name>
+			<description>Id: 서화미술회
+Label: 서화미술회
+Interval: null
+long: 126.9797
+lat: 37.5754</description>
+			<styleUrl>#style_36</styleUrl>
+			<Point>
+				<coordinates>126.9797,37.5754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>세검정</name>
+			<description>Id: 세검정
+Label: 세검정
+Interval: null
+long: 126.9582
+lat: 37.59988</description>
+			<styleUrl>#style_37</styleUrl>
+			<Point>
+				<coordinates>126.9582,37.59988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>송석원</name>
+			<description>Id: 송석원
+Label: 송석원
+Interval: null
+long: 126.9667
+lat: 37.58348</description>
+			<styleUrl>#style_38</styleUrl>
+			<Point>
+				<coordinates>126.9667,37.58348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>화성행궁</name>
+			<description>Id: 화성행궁
+Label: 화성행궁
+Interval: null
+long: 127.0137
+lat: 37.28203</description>
+			<styleUrl>#style_39</styleUrl>
+			<Point>
+				<coordinates>127.0137,37.28203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>신위의 거주지</name>
+			<description>Id: 신위의 거주지
+Label: 신위의 거주지
+Interval: null
+long: 126.6709
+lat: 36.60117</description>
+			<styleUrl>#style_40</styleUrl>
+			<Point>
+				<coordinates>126.6709,36.60117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>내변산 실상사</name>
+			<description>Id: 내변산 실상사
+Label: 내변산 실상사
+Interval: null
+long: 126.5765
+lat: 35.6367</description>
+			<styleUrl>#style_41</styleUrl>
+			<Point>
+				<coordinates>126.5765,35.6367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안기찰방 터</name>
+			<description>Id: 안기찰방 터
+Label: 안기찰방 터
+Interval: null
+long: 128.7146
+lat: 36.57253</description>
+			<styleUrl>#style_42</styleUrl>
+			<Point>
+				<coordinates>128.7146,36.57253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안동별궁 터</name>
+			<description>Id: 안동별궁 터
+Label: 안동별궁 터
+Interval: null
+long: 126.9836
+lat: 37.57696</description>
+			<styleUrl>#style_43</styleUrl>
+			<Point>
+				<coordinates>126.9836,37.57696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안산 사옹원 분원</name>
+			<description>Id: 안산 사옹원 분원
+Label: 안산 사옹원 분원
+Interval: null
+long: 126.769
+lat: 37.33265</description>
+			<styleUrl>#style_44</styleUrl>
+			<Point>
+				<coordinates>126.769,37.33265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>연진회관</name>
+			<description>Id: 연진회관
+Label: 연진회관
+Interval: null
+long: 126.9674
+lat: 35.12916</description>
+			<styleUrl>#style_45</styleUrl>
+			<Point>
+				<coordinates>126.9674,35.12916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>옥순봉</name>
+			<description>Id: 옥순봉
+Label: 옥순봉
+Interval: null
+long: 128.2389
+lat: 36.94008</description>
+			<styleUrl>#style_46</styleUrl>
+			<Point>
+				<coordinates>128.2389,36.94008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>옥인동</name>
+			<description>Id: 옥인동
+Label: 옥인동
+Interval: null
+long: 126.9634
+lat: 37.58382</description>
+			<styleUrl>#style_47</styleUrl>
+			<Point>
+				<coordinates>126.9634,37.58382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>완위각 터</name>
+			<description>Id: 완위각 터
+Label: 완위각 터
+Interval: null
+long: 127.523222
+lat: 36.838889</description>
+			<styleUrl>#style_48</styleUrl>
+			<Point>
+				<coordinates>127.523222,36.838889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>우금산 우금암</name>
+			<description>Id: 우금산 우금암
+Label: 우금산 우금암
+Interval: null
+long: 126.658113
+lat: 35.670835</description>
+			<styleUrl>#style_49</styleUrl>
+			<Point>
+				<coordinates>126.658113,35.670835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>운림산방</name>
+			<description>Id: 운림산방
+Label: 운림산방
+Interval: null
+long: 126.3086
+lat: 34.46634</description>
+			<styleUrl>#style_50</styleUrl>
+			<Point>
+				<coordinates>126.3086,34.46634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>내변산 월명암</name>
+			<description>Id: 내변산 월명암
+Label: 내변산 월명암
+Interval: null
+long: 126.558194
+lat: 35.640778</description>
+			<styleUrl>#style_51</styleUrl>
+			<Point>
+				<coordinates>126.558194,35.640778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>월송정</name>
+			<description>Id: 월송정
+Label: 월송정
+Interval: null
+long: 129.4685
+lat: 36.74326</description>
+			<styleUrl>#style_52</styleUrl>
+			<Point>
+				<coordinates>129.4685,36.74326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>윤덕희의 집</name>
+			<description>Id: 윤덕희의 집
+Label: 윤덕희의 집
+Interval: null
+long: 126.9777
+lat: 37.55796</description>
+			<styleUrl>#style_53</styleUrl>
+			<Point>
+				<coordinates>126.9777,37.55796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>윤두서 고택</name>
+			<description>Id: 윤두서 고택
+Label: 윤두서 고택
+Interval: null
+long: 126.5184
+lat: 34.44065</description>
+			<styleUrl>#style_54</styleUrl>
+			<Point>
+				<coordinates>126.5184,34.44065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>이인상의 집</name>
+			<description>Id: 이인상의 집
+Label: 이인상의 집
+Interval: null
+long: 127.1098
+lat: 37.85104</description>
+			<styleUrl>#style_55</styleUrl>
+			<Point>
+				<coordinates>127.1098,37.85104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>인곡정사</name>
+			<description>Id: 인곡정사
+Label: 인곡정사
+Interval: null
+long: 126.9683
+lat: 37.5823</description>
+			<styleUrl>#style_56</styleUrl>
+			<Point>
+				<coordinates>126.9683,37.5823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>인왕산</name>
+			<description>Id: 인왕산
+Label: 인왕산
+Interval: null
+long: 126.9593
+lat: 37.58508</description>
+			<styleUrl>#style_57</styleUrl>
+			<Point>
+				<coordinates>126.9593,37.58508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정만조의 서당</name>
+			<description>Id: 정만조의 서당
+Label: 정만조의 서당
+Interval: null
+long: 126.2808
+lat: 34.48276</description>
+			<styleUrl>#style_58</styleUrl>
+			<Point>
+				<coordinates>126.2808,34.48276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정선의 집</name>
+			<description>Id: 정선의 집
+Label: 정선의 집
+Interval: null
+long: 126.9714
+lat: 37.58689</description>
+			<styleUrl>#style_59</styleUrl>
+			<Point>
+				<coordinates>126.9714,37.58689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>종강모루</name>
+			<description>Id: 종강모루
+Label: 종강모루
+Interval: null
+long: 127.5965
+lat: 37.13479</description>
+			<styleUrl>#style_60</styleUrl>
+			<Point>
+				<coordinates>127.5965,37.13479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>죽서루</name>
+			<description>Id: 죽서루
+Label: 죽서루
+Interval: null
+long: 129.1603
+lat: 37.44186</description>
+			<styleUrl>#style_61</styleUrl>
+			<Point>
+				<coordinates>129.1603,37.44186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>천축사</name>
+			<description>Id: 천축사
+Label: 천축사
+Interval: null
+long: 127.0194
+lat: 37.69432</description>
+			<styleUrl>#style_62</styleUrl>
+			<Point>
+				<coordinates>127.0194,37.69432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청간정</name>
+			<description>Id: 청간정
+Label: 청간정
+Interval: null
+long: 128.5583
+lat: 38.26441</description>
+			<styleUrl>#style_63</styleUrl>
+			<Point>
+				<coordinates>128.5583,38.26441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청계천 광교</name>
+			<description>Id: 청계천 광교
+Label: 청계천 광교
+Interval: null
+long: 126.9827
+lat: 37.56884</description>
+			<styleUrl>#style_64</styleUrl>
+			<Point>
+				<coordinates>126.9827,37.56884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청계천 광통교</name>
+			<description>Id: 청계천 광통교
+Label: 청계천 광통교
+Interval: null
+long: 126.9827313
+lat: 37.5688425</description>
+			<styleUrl>#style_65</styleUrl>
+			<Point>
+				<coordinates>126.9827313,37.5688425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청문당</name>
+			<description>Id: 청문당
+Label: 청문당
+Interval: null
+long: 126.8728
+lat: 37.33938</description>
+			<styleUrl>#style_66</styleUrl>
+			<Point>
+				<coordinates>126.8728,37.33938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청안 삼성당</name>
+			<description>Id: 청안 삼성당
+Label: 청안 삼성당
+Interval: null
+long: 127.5915
+lat: 36.77131</description>
+			<styleUrl>#style_67</styleUrl>
+			<Point>
+				<coordinates>127.5915,36.77131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청풍한벽루</name>
+			<description>Id: 청풍한벽루
+Label: 청풍한벽루
+Interval: null
+long: 128.1717
+lat: 37.00501</description>
+			<styleUrl>#style_68</styleUrl>
+			<Point>
+				<coordinates>128.1717,37.00501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>총석정</name>
+			<description>Id: 총석정
+Label: 총석정
+Interval: null
+long: 127.88
+lat: 38.93546</description>
+			<styleUrl>#style_69</styleUrl>
+			<Point>
+				<coordinates>127.88,38.93546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>최석환의 집</name>
+			<description>Id: 최석환의 집
+Label: 최석환의 집
+Interval: null
+long: 126.8596
+lat: 35.97245</description>
+			<styleUrl>#style_70</styleUrl>
+			<Point>
+				<coordinates>126.8596,35.97245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>추사 김정희 선생 고택</name>
+			<description>Id: 추사 김정희 선생 고택
+Label: 추사 김정희 선생 고택
+Interval: null
+long: 126.7986
+lat: 36.74684</description>
+			<styleUrl>#style_71</styleUrl>
+			<Point>
+				<coordinates>126.7986,36.74684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>추사관</name>
+			<description>Id: 추사관
+Label: 추사관
+Interval: null
+long: 126.2783
+lat: 33.2503</description>
+			<styleUrl>#style_72</styleUrl>
+			<Point>
+				<coordinates>126.2783,33.2503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>춘설헌</name>
+			<description>Id: 춘설헌
+Label: 춘설헌
+Interval: null
+long: 126.9667
+lat: 35.12927</description>
+			<styleUrl>#style_73</styleUrl>
+			<Point>
+				<coordinates>126.9667,35.12927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>팔달산</name>
+			<description>Id: 팔달산
+Label: 팔달산
+Interval: null
+long: 127.0097
+lat: 37.2794</description>
+			<styleUrl>#style_74</styleUrl>
+			<Point>
+				<coordinates>127.0097,37.2794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>한라산</name>
+			<description>Id: 한라산
+Label: 한라산
+Interval: null
+long: 126.529
+lat: 33.36224</description>
+			<styleUrl>#style_75</styleUrl>
+			<Point>
+				<coordinates>126.529,33.36224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>한성서화관</name>
+			<description>Id: 한성서화관
+Label: 한성서화관
+Interval: null
+long: 126.9749
+lat: 37.56442</description>
+			<styleUrl>#style_76</styleUrl>
+			<Point>
+				<coordinates>126.9749,37.56442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>허필의 고향집</name>
+			<description>Id: 허필의 고향집
+Label: 허필의 고향집
+Interval: null
+long: 126.7118
+lat: 37.87663</description>
+			<styleUrl>#style_77</styleUrl>
+			<Point>
+				<coordinates>126.7118,37.87663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>허필의 집</name>
+			<description>Id: 허필의 집
+Label: 허필의 집
+Interval: null
+long: 126.9943
+lat: 37.55856</description>
+			<styleUrl>#style_78</styleUrl>
+			<Point>
+				<coordinates>126.9943,37.55856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>허형 가문의 생가</name>
+			<description>Id: 허형 가문의 생가
+Label: 허형 가문의 생가
+Interval: null
+long: 126.4197
+lat: 34.79294</description>
+			<styleUrl>#style_79</styleUrl>
+			<Point>
+				<coordinates>126.4197,34.79294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍지문</name>
+			<description>Id: 홍지문
+Label: 홍지문
+Interval: null
+long: 126.9566
+lat: 37.59881</description>
+			<styleUrl>#style_80</styleUrl>
+			<Point>
+				<coordinates>126.9566,37.59881,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>남종화풍 작품</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #DCD6B7;
+        }
+        .container {
+            width: 1440px;
+            height: 1024px;
+            position: relative;
+            background: #DCD6B7;
+            margin: 0 auto;
+        }
+        .circle {
+            width: 396px;
+            height: 396px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 50%;
+            left: -83px;
+            top: 45px;
+        }
+        .large-box {
+            width: 753.57px;
+            height: 753.42px;
+            position: absolute;
+            left: 149px;
+            top: 156px;
+            background: #D9D9D9;
+        }
+        .large-box-text {
+            width: 236px;
+            height: 33px;
+            position: absolute;
+            left: 259px;
+            top: 384px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            text-align: center;
+            word-wrap: break-word;
+        }
+        .small-box {
+            width: 333px;
+            height: 333px;
+            position: absolute;
+            background: #D9D9D9;
+        }
+        .small-box-1 {
+            left: 958px;
+            top: 156px;
+        }
+        .small-box-2 {
+            left: 958px;
+            top: 572px;
+        }
+        .small-box-text-1 {
+            width: 99.9px;
+            position: absolute;
+            left: 1081.21px;
+            top: 311.18px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            text-align: center;
+            word-wrap: break-word;
+        }
+        .small-box-text-2 {
+            width: 112.55px;
+            position: absolute;
+            left: 109.89px;
+            top: 155.18px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            text-align: center;
+            word-wrap: break-word;
+        }
+        .title {
+            position: absolute;
+            left: 149px;
+            top: 114px;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .subtitle {
+            position: absolute;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .subtitle-1 { left: 961px; top: 120px; }
+        .subtitle-2 { left: 961px; top: 536px; }
+        .angled-line {
+            width: 35.36px;
+            height: 0;
+            position: absolute;
+            border: 2px solid #929090;
+            transform: rotate(45deg);
+        }
+        .line-1 { left: 1251px; top: 453px; }
+        .line-2 { left: 1251px; top: 869px; }
+        .line-3 { left: 859px; top: 869px; }
+        .button {
+            width: 101px;
+            height: 26.4px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 13px;
+            font-weight: 700;
+            color: black;
+            text-align: center;
+        }
+        .button-1 { left: 1190px; top: 122px; }
+        .button-2 { left: 1190px; top: 540px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="circle"></div>
+    
+    <div class="title">남종화풍 작품</div>
+    <div class="subtitle subtitle-1">작품유형 현황</div>
+    <div class="subtitle subtitle-2">작품 내 문양 현황</div>
+
+    <div class="large-box">
+        <div class="large-box-text">작품 - 작가 - 문양 네트워크 그래프</div>
+    </div>
+
+    <div class="small-box small-box-1"></div>
+    <div class="small-box small-box-2"></div>
+
+    <div class="small-box-text-1">작품 유형 워드클라우드</div>
+    <div class="small-box-text-2">작품 문양 워드클라우드</div>
+
+    <!-- button-1을 artwork_type.html로 연결 -->
+    <a href="artwork_type.html" class="button button-1">더보기</a>
+    
+    <!-- button-2을 artwork_pattern.html로 연결 -->
+    <a href="artwork_pattern.html" class="button button-2">더보기</a>
+</div>
+
+</body>
+</html>
