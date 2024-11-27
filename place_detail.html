@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Place Detail</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #D1C9C9;
+        }
+        .container {
+            width: 672px;
+            height: 1807px;
+            padding: 20px 28px 1020px 31px;
+            background-color: #D1C9C9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .close-button {
+            position: absolute;
+            top: 20px;
+            right: 25px;
+            font-size: 24px;
+            color: black;
+            cursor: pointer;
+        }
+        .content-wrapper {
+            width: 613px;
+            height: 767px;
+            position: relative;
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 400;
+            color: black;
+            position: absolute;
+            top: 24px;
+            left: 0;
+        }
+        .sub-title {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+            position: absolute;
+            top: 0;
+            left: 5px;
+        }
+        .address {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+            position: absolute;
+            top: 64px;
+            left: 5px;
+        }
+        .image {
+            width: 585px;
+            height: 294px;
+            position: absolute;
+            top: 123px;
+            left: 1px;
+        }
+        .description-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+            position: absolute;
+            top: 452px;
+            left: 2px;
+        }
+        .description {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+            line-height: 1.6;
+            letter-spacing: 1.5px;
+            position: absolute;
+            top: 453px;
+            left: 86px;
+            width: 498px;
+        }
+        .related-people-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+            position: absolute;
+            top: 700px;
+            left: 2px;
+        }
+        .related-people {
+            width: 498px;
+            position: absolute;
+            top: 700px;
+            left: 86px;
+            margin-top: 20px;
+        }
+        .tag-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .tag {
+            width: 100px;
+            height: 25px;
+            background-color: #D9D9D9;
+            border-radius: 25px;
+            font-size: 12px;
+            font-weight: 400;
+            color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 10px;
+        }
+        .tag-description {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+            letter-spacing: 1.5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Close Button -->
+    <div class="close-button">X</div>
+
+    <div class="content-wrapper">
+        <!-- Main Title -->
+        <div class="title">운림산방</div>
+
+        <!-- Sub Title and Address -->
+        <div class="sub-title">활동지역</div>
+        <div class="address">전라남도 진도군 사천리 61</div>
+
+        <!-- Image -->
+        <img class="image" src="https://via.placeholder.com/585x294" alt="Place Image">
+
+        <!-- Description Section -->
+        <div class="description-title">설명</div>
+        <div class="description">
+            조선 말기 남화의 대가이던 소치 허련(許鍊)이 만년에 기거하며 작품을 제작하였던 곳으로, 사랑채인 화실의 당호이다. 허련의 아들 허형도 부친 허련이 1867년에 진도로 돌아와 이곳에 자리잡아 어린시절을 보냈다. 정만조와 교유하면서 화필생활에 전념했던 허형은 허련 타계 후 1912년, 운림산방을 팔고 진도를 떠났다. 허백련은 1911년 이곳으로 내려와 허형에게 본격적으로 그림을 배웠다. 현재 운림산방에 걸려있는 현판이 허백련의 글씨인 것으로 알려져 있다.
+        </div>
+
+        <!-- Related People Section -->
+        <div class="related-people-title">관련 인물</div>
+        <div class="related-people">
+            <div class="tag-container">
+                <div class="tag">허련</div>
+                <div class="tag-description">말년에 서울 생활을 그만두고 고향인 이곳에 돌아와 그림을 그림</div>
+            </div>
+            <div class="tag-container">
+                <div class="tag">허백련</div>
+                <div class="tag-description">일본으로 유학가기 전 이곳에서 허형에게 본격적으로 그림을 배우기 시작함</div>
+            </div>
+            <div class="tag-container">
+                <div class="tag">허형</div>
+                <div class="tag-description">부친을 따라 이곳에 자리잡아 어린시절을 보냄</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

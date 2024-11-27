@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Detail</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #D1C9C9;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .popup-container {
+            width: 672px;
+            height: 100vh;
+            position: fixed;
+            right: 0;
+            top: 0;
+            background: #D1C9C9;
+            padding: 20px;
+            box-sizing: border-box;
+            overflow-y: auto;
+        }
+        .close-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 24px;
+            font-weight: 400;
+            color: black;
+            cursor: pointer;
+        }
+        .title-section {
+            margin-top: 40px;
+        }
+        .title-section .label {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+        }
+        .title-section .title {
+            font-size: 32px;
+            font-weight: 400;
+            color: black;
+            margin-top: 5px;
+        }
+        .info-box {
+            margin-top: 20px;
+        }
+        .info-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 5px;
+            flex-wrap: wrap;
+        }
+        .info-label {
+            font-size: 15px;
+            font-weight: 400;
+            color: black;
+            min-width: 70px; /* Ensures alignment */
+        }
+        .tag {
+            background-color: #D9D9D9;
+            border-radius: 25px;
+            padding: 5px 10px;
+            font-size: 12px;
+            color: black;
+            text-align: center;
+            margin-right: 5px;
+            white-space: nowrap;
+        }
+        .section-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+            margin-top: 40px;
+            margin-bottom: 10px;
+        }
+        .content-section {
+            background: #D9D9D9;
+            width: 100%;
+            height: 300px;
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+            position: relative;
+        }
+        .content-title {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+        }
+        .sub-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+            margin-top: 40px;
+            margin-bottom: 20px;
+        }
+        .sub-content-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 10px;
+        }
+        .small-content-box {
+            background: #D9D9D9;
+            width: 48%;
+            height: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 15px;
+            font-weight: 700;
+            color: black;
+        }
+        .image-gallery {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin-top: 20px;
+            padding: 0 10px;
+            box-sizing: border-box;
+        }
+        .image-box {
+            width: 100%;
+            height: 259px;
+            background-color: #D9D9D9;
+        }
+    </style>
+</head>
+<body>
+    <div class="popup-container">
+        <div class="close-btn" onclick="window.close()">X</div>
+        
+        <!-- Title Section -->
+        <div class="title-section">
+            <div class="label">작가</div>
+            <div class="title">심사정</div>
+            <div class="label">沈師正</div>
+        </div>
+
+        <!-- Info Section -->
+        <div class="info-box">
+            <div class="info-row">
+                <div class="info-label">생몰년도 :</div>
+                <div>1707 - 1769</div>
+            </div>
+            <div class="info-row">
+                <div class="info-label">직업 :</div>
+                <div class="tag">문인서화가</div>
+            </div>
+            <div class="info-row">
+                <div class="info-label">화풍 :</div>
+                <div class="tag">남종화풍</div>
+                <div class="tag">북종화풍</div>
+                <div class="tag">정선파화풍</div>
+            </div>
+            <div class="info-row">
+                <div class="info-label">화법 :</div>
+                <div class="tag">피마준법</div>
+                <div class="tag">수묵담채</div>
+                <div class="tag">대부벽준</div>
+                <div class="tag">대혼점</div>
+                <div class="tag">수묵화법</div>
+                <div class="tag">부벽준</div>
+            </div>
+        </div>
+
+        <!-- Content Section -->
+        <div class="section-title">인물관계도</div>
+        <div class="content-section">
+            인물관계도 - gephi
+        </div>
+
+        <!-- Artwork Types -->
+        <div class="sub-title">심사정의 작품</div>
+        <div class="sub-content-container">
+            <div class="small-content-box">작품유형 파이차트</div>
+            <div class="small-content-box">작품 내 문양 워드클라우드</div>
+        </div>
+
+        <!-- Image Gallery -->
+        <div class="image-gallery">
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+            <div class="image-box"></div>
+        </div>
+    </div>
+</body>
+</html>

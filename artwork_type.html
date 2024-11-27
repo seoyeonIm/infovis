@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>작품유형 현황</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #DCD6B7;
+        }
+        .container {
+            width: 1440px;
+            height: 1024px;
+            position: relative;
+            background: #DCD6B7;
+            margin: 0 auto;
+        }
+        .circle {
+            width: 396px;
+            height: 396px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 9999px;
+            left: -83px;
+            top: 45px;
+        }
+        .title {
+            position: absolute;
+            left: 149px;
+            top: 114px;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .left-box {
+            width: 553.16px;
+            height: 753.42px;
+            position: absolute;
+            left: 149px;
+            top: 156px;
+            background: #D9D9D9;
+        }
+        .left-box-text {
+            width: 116.71px;
+            height: 17px;
+            position: absolute;
+            left: 218.01px;
+            top: 407px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .right-box {
+            width: 507.8px;
+            height: 753px;
+            position: absolute;
+            left: 799px;
+            top: 156px;
+        }
+        .right-box-top, .right-box-bottom {
+            width: 507.8px;
+            height: 370px;
+            position: absolute;
+            background: #D9D9D9;
+        }
+        .right-box-top {
+            top: 0;
+        }
+        .right-box-bottom {
+            top: 383px;
+        }
+        .right-box-top-text {
+            width: 165px;
+            height: 38px;
+            position: absolute;
+            left: 189px;
+            top: 185px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .right-box-bottom-text {
+            width: 165px;
+            height: 38px;
+            position: absolute;
+            left: 189px;
+            top: 555px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="circle"></div>
+    
+    <div class="title">작품유형 현황</div>
+    
+    <div class="left-box"></div>
+    <div class="left-box-text">작품유형 워드 클라우드</div>
+    
+    <div class="right-box">
+        <div class="right-box-top"></div>
+        <div class="right-box-bottom"></div>
+        <div class="right-box-top-text">작품유형별 문양 워드클라우드</div>
+        <div class="right-box-bottom-text">작품유형 별 작가 순위</div>
+    </div>
+</div>
+
+</body>
+</html>

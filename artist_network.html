@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>인물관계도</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #DCD6B7;
+            overflow-x: hidden;
+        }
+        .container {
+            width: 1440px;
+            height: 1024px;
+            position: relative;
+            background: #DCD6B7;
+            margin: 0 auto;
+        }
+        .circle {
+            width: 396px;
+            height: 396px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 50%;
+            left: -83px;
+            top: 45px;
+        }
+        .main-box {
+            width: 833px;
+            height: 873px;
+            position: absolute;
+            left: 164px;
+            top: 86px;
+            cursor: pointer;
+        }
+        .main-box-title {
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .main-box-content {
+            width: 833px;
+            height: 833px;
+            position: absolute;
+            left: 0;
+            top: 40px;
+            background: #D9D9D9;
+        }
+        .main-box-text {
+            width: 214.91px;
+            height: 28.32px;
+            position: absolute;
+            left: 373px;
+            top: 404px;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            text-align: center;
+            word-wrap: break-word;
+        }
+        .angled-line {
+            width: 35.36px;
+            height: 0;
+            position: absolute;
+            border: 2px solid #929090;
+            transform: rotate(45deg);
+        }
+        .line-1 { left: 781px; top: 822px; }
+        .side-box {
+            width: 328px;
+            height: 328px;
+            position: absolute;
+            background: #D9D9D9;
+        }
+        .side-box-1 { left: 1031px; top: 165px; }
+        .side-box-2 { left: 1031px; top: 631px; }
+        .side-title {
+            position: absolute;
+            text-align: center;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .side-title-1 { left: 1030px; top: 126px; }
+        .side-title-2 { left: 1032px; top: 590px; }
+        .side-text {
+            position: absolute;
+            text-align: center;
+            color: black;
+            font-size: 24px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+        }
+        .side-text-1 { left: 1092px; top: 314px; }
+        .side-text-2 { left: 1092px; top: 780px; }
+        /* 팝업 스타일 */
+        .popup-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 672px;
+            height: 100vh;
+            background-color: #D1C9C9;
+            box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+        }
+        .popup-overlay.active {
+            display: block;
+        }
+        .popup-close {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            font-size: 24px;
+            font-weight: 400;
+            cursor: pointer;
+        }
+        .popup-iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="circle"></div>
+    
+    <div class="main-box" onclick="openPopup()">
+        <div class="main-box-title">인물관계도</div>
+        <div class="main-box-content"></div>
+        <div class="main-box-text">인물관계도 - gephi</div>
+        <div class="angled-line line-1"></div>
+    </div>
+    
+    <div class="side-box side-box-1"></div>
+    <div class="side-box side-box-2"></div>
+    
+    <div class="side-title side-title-1">화풍 별 작가 현황</div>
+    <div class="side-title side-title-2">화법별 작가 현황</div>
+    
+    <div class="side-text side-text-1">화풍별 워드클라우드</div>
+    <div class="side-text side-text-2">화법별 워드클라우드</div>
+
+    <!-- 팝업 오버레이 -->
+    <div class="popup-overlay" id="popup">
+        <div class="popup-close" onclick="closePopup()">X</div>
+        <iframe src="artist_detail.html" class="popup-iframe"></iframe>
+    </div>
+</div>
+
+<script>
+    function openPopup() {
+        document.getElementById("popup").classList.add("active");
+    }
+    function closePopup() {
+        document.getElementById("popup").classList.remove("active");
+    }
+</script>
+
+</body>
+</html>

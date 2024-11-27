@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>시기별 활동작가</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'NanumSquare Neo', sans-serif;
+            background-color: #DCD6B7;
+        }
+        .container {
+            width: 1440px;
+            height: 1024px;
+            position: relative;
+            background: #DCD6B7;
+            margin: 0 auto;
+        }
+        .circle {
+            width: 396px;
+            height: 396px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 9999px;
+            left: -83px;
+            top: 45px;
+        }
+        .title {
+            position: absolute;
+            left: 166px;
+            top: 77px;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .activity {
+            position: absolute;
+            left: 758px;
+            top: 448px;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .activity-graphic {
+            width: 489.1px;
+            height: 489.1px;
+            position: absolute;
+            background: #D9D9D9;
+            left: 758px;
+            top: 481px;
+        }
+        .timeline {
+            width: 1165px;
+            height: 296px;
+            position: absolute;
+            left: 147px;
+            top: 112px;
+        }
+        .timeline-background {
+            width: 1165px;
+            height: 296px;
+            position: absolute;
+            background: #D9D9D9;
+        }
+        .timeline-text {
+            width: 388.33px;
+            position: absolute;
+            left: 388.33px;
+            top: 132.8px;
+            text-align: center;
+            color: black;
+            font-size: 15px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .timeline-bar {
+            width: 768.25px;
+            height: 11.17px;
+            position: absolute;
+            left: 87.35px;
+            top: 284.83px;
+            background: rgba(143, 191, 201, 0.52);
+            border-radius: 12px;
+        }
+        .activity-description, .relationship-description {
+            position: absolute;
+            color: black;
+            font-size: 24px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+            word-wrap: break-word;
+        }
+        .activity-description { left: 872px; top: 711px; }
+        .relationship-description { left: 273px; top: 711px; }
+        .angled-line {
+            width: 35.36px;
+            height: 0;
+            position: absolute;
+            border: 2px solid #929090;
+            transform: rotate(45deg);
+            transform-origin: 0 0;
+        }
+        .line-1 { left: 1267px; top: 372px; }
+        .line-2 { left: 1202px; top: 935px; }
+        .relationship {
+            width: 490.1px;
+            height: 522.1px;
+            position: absolute;
+            left: 192px;
+            top: 448px;
+        }
+        .relationship-title {
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: black;
+            font-size: 24px;
+            font-weight: 700;
+            word-wrap: break-word;
+        }
+        .relationship-graphic {
+            width: 489.1px;
+            height: 489.1px;
+            position: absolute;
+            background: #D9D9D9;
+            left: 1px;
+            top: 33px;
+        }
+        .button {
+            width: 101px;
+            height: 26.4px;
+            position: absolute;
+            background: #8FBFC9;
+            border-radius: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 13px;
+            font-weight: 700;
+            color: black;
+            text-align: center;
+            text-decoration: none;
+        }
+        .button-1 { left: 568px; top: 449px; }
+        .button-2 { left: 1140px; top: 449px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="circle"></div>
+    
+    <div class="title">시기별 활동작가</div>
+    
+    <div class="activity">활동지역</div>
+    
+    <div class="activity-graphic"></div>
+    
+    <div class="timeline">
+        <div class="timeline-background"></div>
+        <div class="timeline-text">작가 생몰년도 기준 타임라인 그래프</div>
+        <div class="timeline-bar"></div>
+    </div>
+    
+    <div class="activity-description">작가별 활동지역 - gephi</div>
+    
+    <div class="relationship">
+        <div class="relationship-title">인물관계도</div>
+        <div class="relationship-graphic"></div>
+    </div>
+    
+    <div class="relationship-description">작가, 화풍, 화법 관계도 - gephi</div>
+    
+
+    
+    <!-- 첫 번째 "더보기" 버튼을 artist_network.html로 연결 -->
+    <a href="artist_network.html" class="button button-1">더보기</a>
+    
+    <!-- 두 번째 더보기 버튼 -->
+    <a href="artist_place.html" class="button button-2">더보기</a>
+    
+</div>
+
+</body>
+</html>
