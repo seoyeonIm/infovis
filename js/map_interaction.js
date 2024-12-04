@@ -1,5 +1,5 @@
-import { createFilteredGraph } from "/js/filtered_graph.js"; // filtered_graph.js 가져오기
-import { createFilteredGraphBottom } from "/js/filtered_graph_bottom.js"; // filtered_graph_bottom.js 가져오기
+import { createFilteredGraph } from "https://seoyeonIm.github.io/infovis/js/filtered_graph.js"; // filtered_graph.js 가져오기
+import { createFilteredGraphBottom } from "https://seoyeonIm.github.io/infovis/js/filtered_graph_bottom.js"; // filtered_graph_bottom.js 가져오기
 
 // Leaflet 지도 설정
 const map = L.map("map").setView([37.7749, -122.4194], 5);
@@ -53,7 +53,7 @@ fetch(
             if (bottomContainer) bottomContainer.innerHTML = ""; // 하단 그래프 초기화
 
             // JSON 데이터를 새로 불러와 필터링 후 그래프 생성
-            fetch("/js/place.json") // 그래프 데이터를 새로 불러옴
+            fetch("https://seoyeonIm.github.io/infovis/js/place.json") // 그래프 데이터를 새로 불러옴
               .then((response) => response.json())
               .then((graphData) => {
                 createFilteredGraph(
