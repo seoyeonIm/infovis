@@ -37,8 +37,8 @@ export function addHoverEffect(svg, zoomGroup, node, link, label) {
     // 클릭된 노드의 데이터를 콘솔에 출력
     console.log(`클릭된 노드의 ID: ${typeKey}`);
 
-    const wordCloudPath = `/html/type_pattern_wordcloud/${typeKey}_wordcloud.png`;
-    const barChartPath = `/html/type_artist_bar_graph/${typeKey}_bar_graph.png`;
+    const wordCloudPath = `https://seoyeonIm.github.io/infovis/type_pattern_wordcloud/${typeKey}_wordcloud.png`;
+    const barChartPath = `https://seoyeonIm.github.io/infovis/type_artist_bar_graph/${typeKey}_bar_graph.png`;
 
     console.log(`워드클라우드 경로: ${wordCloudPath}`);
     console.log(`막대 그래프 경로: ${barChartPath}`);
