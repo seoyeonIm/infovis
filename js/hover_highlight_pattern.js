@@ -40,8 +40,8 @@ export function addHoverEffect(svg, zoomGroup, node, link, label) {
     // 클릭된 노드의 데이터를 콘솔에 출력
     console.log(`클릭된 노드의 ID: ${patternKey}`);
 
-    const wordCloudPath = `/pattern_combi_wordcloud/${patternKey}_wordcloud.png`;
-    const barChartPath = `/pattern_bar_graph/${patternKey}_bar_graph.png`;
+    const wordCloudPath = `https://seoyeonIm.github.io/infovis/pattern_combi_wordcloud/${patternKey}_wordcloud.png`;
+    const barChartPath = `https://seoyeonIm.github.io/infovis/pattern_bar_graph/${patternKey}_bar_graph.png`;
 
     console.log(`워드클라우드 경로: ${wordCloudPath}`);
     console.log(`막대 그래프 경로: ${barChartPath}`);
@@ -66,7 +66,7 @@ export function addHoverEffect(svg, zoomGroup, node, link, label) {
     const popupFrame = document.getElementById("popup-frame");
 
     // 팝업 URL 설정
-    const popupUrl = `artist_popup.html?artist=${encodeURIComponent(
+    const popupUrl = `https://seoyeonIm.github.io/infovis/artist_popup.html?artist=${encodeURIComponent(
       artistName
     )}`;
     popupFrame.src = popupUrl;
