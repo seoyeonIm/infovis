@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const artistName = urlParams.get("artist");
 
   if (artistName) {
-    fetch("https://seoyeonIm.github.io/infovis/js/artist.json")
+    fetch("https://raw.githubusercontent.com/seoyeonIm/infovis/main/js/artist.json")
       .then((response) => response.json())
       .then((data) => {
         const artistData = data.find(
