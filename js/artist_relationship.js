@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (artistName) {
     // artist.json 데이터 로드
-    fetch("https://seoyeonIm.github.io/infovis/js/artist.json")
+    fetch("https://raw.githubusercontent.com/seoyeonIm/infovis/main/js/artist.json")
       .then((response) => response.json())
       .then((data) => {
         const artistData = data.find(
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
     // 관계도 로드
-    fetch("https://seoyeonIm.github.io/infovis/js/artist_relationship.json")
+    fetch("https://raw.githubusercontent.com/seoyeonIm/infovis/main/js/artist_relationship.json")
       .then((response) => response.json())
       .then((data) => {
         const nodes = data.nodes;
