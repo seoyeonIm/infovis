@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
   console.log("현재 작가 이름 (artistName):", artistName);
 
   // JSON 파일 경로
-  const jsonFilePath = "/js/artwork_link.json";
+  const jsonFilePath = "https://seoyeonIm.github.io/infovis/js/artwork_link.json";
 
   fetch(jsonFilePath)
     .then((response) => response.json())
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const artworkTitle = artwork["작품명"];
         const artworkLink = artwork["링크"];
 
-        const imagePath = `artwork_images/${artistName}/${collectionNumber}/${collectionNumber}_0000.jpg`;
+        const imagePath = `https://seoyeonIm.github.io/infovis/artwork_images/${artistName}/${collectionNumber}/${collectionNumber}_0000.jpg`;
 
         const imageBox = document.createElement("div");
         imageBox.classList.add("image-box");
