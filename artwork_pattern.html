@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="css/common.css">
+  <script type="module" src="./js/artwork_pattern.js" defer></script>
+  <link rel="stylesheet" href="./css/artwork_pattern.css" />
+  <link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  rel="stylesheet"
+/>
+  <title>작품 내 문양 현황</title>
+</head>
+<body>
+  <div class="container">
+    <div class="title">남종화풍 작가들의 작품</div>
+    <div class="description"> 남종화풍 작가들이 그림에 담긴 문양을 중심으로 작품 간 연관성을 파악해보세요.<br> <span style="color: rgb(255, 102, 0);">주황색</span>으로 표시된 <span style="color: rgb(255, 102, 0);">문양</span>을 탐색하여 관련된 정보를 확인할 수 있습니다.<br> <span style="color: green;">초록색</span>으로 표시된 <span style="color: green;">작가</span>를 눌러 작가에 대한 상세 정보와 작품 정보도 확인해보세요. </div>
+
+    <div class="box">
+      <div class="left-box">
+        <div class="iframe-container"></div>
+      </div>
+
+      <div class="right-box">
+        <div class="right-box right-box-top">
+          <div class="right-box-top-text">같이 그려진 문양 조합</div>
+          <p class="description-text">네트워크 그래프에서 주황색으로 표시된 문양을 클릭해보세요.</p>
+          <img id="wordcloud-img" src="" alt="Word Cloud" style="width:100%; display:none;">
+        </div>
+
+        <div class="right-box right-box-bottom">
+          <div class="right-box-bottom-text">문양별 작가 순위</div>
+          <p class="description-text">클릭한 문양을 자주 그린 작가의 순위가 표시됩니다.</p>
+          <img id="barchart-img" src="" alt="Bar Chart" style="width:100%; display:none;"> 
+          <a href="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FseoyeonIm%2F7bcbe0b57151a7593dc40ed781d48a54%2Fraw%2F2e7392505117d3c0d942acfb5e9a1ab446655f89%2Fnetwork-3cff222d-882.gexf&nr=1.487&lt=10&ls=8&le=30" class="view-graph-button">그래프 자세히 보기</button>
+          <img id="barchart-img" src="" alt="Bar Chart" style="width:100%; display:none;">  </a></div>
+            <!-- 홈 버튼 -->
+
+             <!-- 팝업창 컨테이너 -->
+            <div id="popup-container" class="popup-container hidden">
+             <iframe id="popup-frame" src="" frameborder="0"></iframe>
+             <button id="popup-close" class="popup-close">×</button>
+             </div>
+            <a href="javascript:history.back()" class="back-button">
+              <i class="fas fa-arrow-left"></i>
+            </a>
+            <a href="★★★★home.html" class="home-button">
+              <i class="fas fa-home"></i>
+            </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

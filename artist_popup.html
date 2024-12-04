@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>심사정</title>
+    <!-- Sigma.js 라이브러리 (ES 모듈) -->
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="/css/artist_detail.css" />
+    <script src="/js/artist_popup.js" defer></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- 관계 그래프 스크립트 -->
+    <script type="module" src="/js/artist_relationship.js" defer></script>
+    <script type="module" src="/js/load_images.js" defer></script>
+  </head>
+  <body>
+    <div class="popup-container">
+      <!-- Title Section -->
+      <div class="title-section">
+        <div class="label">작가</div>
+        <div class="title">로드 중...</div>
+        <!-- 동적 데이터 -->
+        <div class="label">로드 중...</div>
+        <!-- 동적 데이터 -->
+      </div>
+
+      <!-- Info Section -->
+      <div class="info-box">
+        <div class="info-row">
+          <div class="info-label">생몰년도 :</div>
+          <div>로드 중...</div>
+          <!-- 동적 데이터 -->
+        </div>
+        <div class="info-row">
+          <div class="info-label">직업 :</div>
+          <div class="tag">로드 중...</div>
+          <!-- 동적 데이터 -->
+        </div>
+        <div class="info-row">
+          <div class="info-label">화풍 :</div>
+          <div class="style-tags"><!-- 동적 데이터 --></div>
+        </div>
+        <div class="info-row">
+          <div class="info-label">화법 :</div>
+          <div class="technique-tags"><!-- 동적 데이터 --></div>
+        </div>
+      </div>
+
+      <!-- Content Section -->
+      <div class="section-title">인물관계도</div>
+      <div id="relationship-graph" class="content-section"></div>
+      <!-- 네트워크 그래프 -->
+
+      <!-- Artwork Types -->
+      <div class="sub-title">작가의 작품</div>
+      <div class="image-gallery"></div>
+      <!-- 작품 이미지 -->
+    </div>
+  </body>
+</html>

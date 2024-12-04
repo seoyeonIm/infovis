@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="css/common.css">
+  <script type="module" src="./js/artwork_type.js" defer></script>
+  <link rel="stylesheet" href="./css/artwork_type.css" />
+  <link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  rel="stylesheet"
+/>
+  <title>작품 내 작품유형</title>
+</head>
+<body>
+  <div class="container">
+    <div class="title">남종화풍 작가들의 작품</div>
+    <div class="description"> 남종화풍 작가들이 그린 작품은 어떤 그림이 많았을까요? <br> 작품유형을 중심으로 작품 간 연관성을 파악해보세요.<br> <span style="color: red;">빨간색</span>으로 표시된 <span style="color: red;">작품유형</span>을 탐색하여 관련된 정보를 확인할 수 있습니다.<br> <span style="color: green;">초록색</span>으로 표시된 <span style="color: green;">작가</span>를 눌러 작가와 작품에 대한 상세정보도 확인해보세요. </div>
+
+    <div class="box">
+      <div class="left-box">
+        <div class="iframe-container"></div>
+      </div>
+
+      <div class="right-box">
+        <div class="right-box right-box-top">
+          <div class="right-box-text">선택한 작품유형에 그려진 문양</div>
+          <p class="description-text">네트워크 그래프에서 빨간색으로 표시된 작품유형을 클릭해보세요</p>
+          <img id="wordcloud-img" src="" alt="Word Cloud" style="width:100%; display:none;">
+        </div>
+
+        <div class="right-box right-box-bottom">
+          <div class="right-box-text">작품유형별 작가 순위</div>
+          <p class="description-text">클릭한 작품유형을 자주 그린 작가의 순위를 확인할 수 있습니다</p>
+          <img id="barchart-img" src="" alt="Bar Chart" style="width:100%; display:none;"> 
+          <a href="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FseoyeonIm%2Feac7678571d5a5f02327f56336e8ebdc%2Fraw%2F75f515923db8a085b162010284d3d72aebafb288%2Fnetwork-39950cff-eda.gexf" class="view-graph-button">그래프 자세히 보기</button>
+          <img id="barchart-img" src="" alt="Bar Chart" style="width:100%; display:none;">  </a> </div>
+
+          <!-- 팝업창 컨테이너 -->
+          <div id="popup-container" class="popup-container hidden">
+          <iframe id="popup-frame" src="" frameborder="0"></iframe>
+          <button id="popup-close" class="popup-close">×</button>
+          </div>
+            <!-- 홈 버튼 -->
+            <a href="javascript:history.back()" class="back-button">
+              <i class="fas fa-arrow-left"></i>
+            </a>
+            <a href="★★★★home.html" class="home-button">
+              <i class="fas fa-home"></i>
+            </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

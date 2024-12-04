@@ -1,0 +1,254 @@
+body {
+  font-family: "NanumSquareNeo", sans-serif;
+  background-color: #dcd6b7;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.box {
+  display: flex;
+  flex-direction: row; /* 기본값으로 가로 정렬 */
+  gap: 20px; /* 박스 간 간격 */
+  justify-content: space-around; /* 양쪽 정렬 */
+  align-items: flex-start; /* 상단 정렬 */
+}
+
+.title {
+  color: black;
+  font-size: 36px;
+  font-weight: 1000;
+  margin: 30px 0 30px 30px;
+  margin-left: -20px;
+  word-wrap: break-word;
+}
+
+.description {
+  color: black; /* 텍스트 색상 */
+  font-size: 24px; /* 폰트 크기 */
+  font-weight: 1000; /* 기본 가중치 */
+  margin: 0 0 20px 50px; /* 좌측 마진 */
+  margin-left: -20px;
+  text-align: left; /* 텍스트 좌측 정렬 */
+  word-wrap: break-word; /* 긴 텍스트 줄바꿈 */
+  line-height: 1.8;
+}
+
+.description-text {
+  color: red; /* 회색 텍스트 색상 */
+  width: 700px;
+  font-size: 16px; /* 텍스트 크기 */
+  font-weight: 700;
+  text-align: left; /* 텍스트 중앙 정렬 */
+  margin: 20px 20px; /* 위아래 여백 */
+  margin-left: 20px;
+  line-height: 1.6; /* 텍스트 줄 간격 */
+}
+
+.left-box {
+  width: 800px;
+  height: 850px;
+}
+.left-box-text {
+  width: 300px;
+  height: 21px;
+  color: black;
+  font-size: 15px;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.right-box {
+  width: 500px;
+  height: auto;
+  left: 802px;
+}
+.right-box-top {
+  background: none;
+  margin-bottom: 10px;
+}
+.right-box-bottom {
+  background: none;
+  margin-top: -50px;
+}
+.right-box-top-text {
+  width: 600px;
+  height: 5px;
+  color: black;
+  font-size: 24px;
+  font-weight: 1000;
+  word-wrap: break-word;
+  margin-bottom: 20px;
+}
+.right-box-bottom-text {
+  width: 600px;
+  height: 5px;
+  color: black;
+  font-size: 24px;
+  font-weight: 1000;
+  word-wrap: break-word;
+  margin-top: 100px;
+}
+/* 새로 추가한 스타일 */
+.iframe-container {
+  width: 800px;
+  height: 850px;
+  display: flex;
+  border: 1px solid #ccc;
+}
+
+/* 버튼 스타일*/
+.view-graph-button {
+  position: absolute;
+  bottom: 20px;
+  right: 50%;
+  transform: translateX(
+    -60%
+  ); /*버튼 너비의 절반만큼 왼쪽으로 이동해 중앙 정렬*/
+  padding: 10px 20px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #007bff; /* 파란색 배경 */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0px 4px 6px reba(0, 0, 0, 0.1);
+}
+
+.view-graph-button:hover {
+  background-color: #0056b3; /* 호버 시 진한 파란색 */
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.view-graph-button:active {
+  background-color: #003d80; /* 클릭 시 더 진한 파란색 */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.home-button {
+  position: fixed; /* 화면에 고정 */
+  width: 50px; /* 버튼 너비 */
+  height: 50px; /* 버튼 높이 */
+  background-color: white;
+  bottom: 20px; /* 화면 하단에서 20px 간격 */
+  left: 24px; /* 왼쪽에서 24px 간격 */
+  border-radius: 50%; /* 버튼을 원형으로 만들기 */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: flex; /* 아이콘을 중앙에 정렬하기 위해 Flexbox 사용 */
+  justify-content: center;
+  align-items: center;
+  font-size: 20px; /* 아이콘 크기 */
+  color: black; /* 아이콘 색상 */
+  z-index: 1000; /* 지도 위로 올리기 */
+}
+
+.home-button:hover {
+  background-color: #f0f0f0; /* 호버 시 배경색 */
+  cursor: pointer; /* 포인터 커서 */
+  color: #007bff; /* 호버 시 아이콘 색상 */
+}
+
+.home-button i {
+  font-size: 20px; /* 아이콘 크기 */
+}
+
+.back-button {
+  position: fixed; /* 화면에 고정 */
+  width: 50px; /* 버튼 너비 */
+  height: 50px; /* 버튼 높이 */
+  background-color: white;
+  bottom: 20px; /* 화면 하단에서 20px 간격 */
+  left: 90px; /* 홈 버튼 오른쪽에 위치 */
+  border-radius: 50%; /* 버튼을 원형으로 만들기 */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: flex; /* 아이콘을 중앙에 정렬하기 위해 Flexbox 사용 */
+  justify-content: center;
+  align-items: center;
+  font-size: 20px; /* 아이콘 크기 */
+  color: black; /* 아이콘 색상 */
+  z-index: 1000; /* 지도 위로 올리기 */
+}
+
+.back-button:hover {
+  background-color: #f0f0f0; /* 호버 시 배경색 */
+  cursor: pointer; /* 포인터 커서 */
+  color: #007bff; /* 호버 시 아이콘 색상 */
+}
+
+.back-button i {
+  font-size: 20px; /* 아이콘 크기 */
+}
+
+#filtered-graph,
+#filtered-graph-bottom {
+  width: 500px; /* 부모 요소의 너비에 맞춤 */
+  height: 300px; /* 동일한 높이 설정 */
+  position: relative;
+  background-color: none; /* 배경색 */
+  border: 1px solid #ccc; /* 테두리 추가 */
+  border-radius: 8px; /* 모서리 둥글게 */
+  overflow: hidden; /* 넘치는 내용을 숨김 */
+  display: flex;
+  justify-content: center;
+  align-items: center; /* 중앙 정렬 */
+  margin-top: 20px; /* 위와의 간격 */
+  margin-bottom: 20px; /* 아래와의 간격 */
+}
+
+/* 초록색 작가 노드의 커서를 포인터로 설정 */
+circle.clickable-node {
+  cursor: pointer !important;
+}
+
+.popup-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 620px;
+  height: 100%;
+  background: white;
+  box-shadow: -4px 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(100%); /* 초기 상태에서 화면 밖 */
+}
+
+.popup-container.hidden {
+  transform: translateX(100%); /* 숨김 상태 */
+}
+
+.popup-container.visible {
+  transform: translateX(0); /* 화면에 표시 */
+}
+
+.popup-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+#popup-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+}

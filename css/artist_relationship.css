@@ -1,0 +1,165 @@
+html,
+body {
+  background-color: #dcd6b7;
+  margin: 0;
+  font-family: "NanumSquareNeo", sans-serif;
+}
+
+.artist-home {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.main-title {
+  color: black;
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.description-text {
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  word-wrap: break-word;
+}
+
+.button-section {
+  display: flex;
+  justify-content: center;
+  gap: 100px; /* 버튼 간 간격 */
+  margin-bottom: 50px;
+}
+
+/* 기본 버튼 스타일 */
+.action-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #ebefb2;
+  border-radius: 48px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #033c73;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* 마우스 오버 시 버튼 색상 변경 */
+.action-button:hover {
+  background-color: #8fbfc9;
+}
+
+.graph-section {
+  visibility: hidden; /* 보이지 않게 처리 */
+  position: absolute; /* 각 그래프 위치를 고정 */
+  top: 0; /* 페이지 상단에 고정 */
+  left: 0; /* 페이지 왼쪽에 고정 */
+  width: 1400px;
+  height: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.graph-section.active {
+  visibility: visible; /* 클릭된 섹션만 보이게 설정 */
+  position: static; /* 동일 위치에 고정 */
+  display: flex; /* 섹션이 보이도록 flex로 설정 */
+  justify-content: center;
+  align-items: center;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.graph-section iframe {
+  max-width: 90%;
+  max-height: 800px;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.home-button {
+  position: fixed; /* 화면에 고정 */
+  width: 50px; /* 버튼 너비 */
+  height: 50px; /* 버튼 높이 */
+  background-color: white;
+  bottom: 20px; /* 화면 하단에서 20px 간격 */
+  left: 24px; /* 왼쪽에서 24px 간격 */
+  border-radius: 50%; /* 버튼을 원형으로 만들기 */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: flex; /* 아이콘을 중앙에 정렬하기 위해 Flexbox 사용 */
+  justify-content: center;
+  align-items: center;
+  font-size: 20px; /* 아이콘 크기 */
+  color: black; /* 아이콘 색상 */
+  z-index: 1000; /* 지도 위로 올리기 */
+}
+
+.home-button:hover {
+  background-color: #f0f0f0; /* 호버 시 배경색 */
+  cursor: pointer; /* 포인터 커서 */
+  color: #007bff; /* 호버 시 아이콘 색상 */
+}
+
+.home-button i {
+  font-size: 20px; /* 아이콘 크기 */
+}
+
+.back-button {
+  position: fixed; /* 화면에 고정 */
+  width: 50px; /* 버튼 너비 */
+  height: 50px; /* 버튼 높이 */
+  background-color: white;
+  bottom: 20px; /* 화면 하단에서 20px 간격 */
+  left: 90px; /* 홈 버튼 오른쪽에 위치 */
+  border-radius: 50%; /* 버튼을 원형으로 만들기 */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: flex; /* 아이콘을 중앙에 정렬하기 위해 Flexbox 사용 */
+  justify-content: center;
+  align-items: center;
+  font-size: 20px; /* 아이콘 크기 */
+  color: black; /* 아이콘 색상 */
+  z-index: 1000; /* 지도 위로 올리기 */
+}
+
+.back-button:hover {
+  background-color: #f0f0f0; /* 호버 시 배경색 */
+  cursor: pointer; /* 포인터 커서 */
+  color: #007bff; /* 호버 시 아이콘 색상 */
+}
+
+.back-button i {
+  font-size: 20px; /* 아이콘 크기 */
+}
+
+#networking-container {
+  width: 100%;
+  height: 800px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}

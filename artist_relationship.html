@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>화법·화풍별 활동작가</title>
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="/css/artist_relationship.css" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+    <script type="module" src="/js/artist_rel.js"></script>
+  </head>
+  <body>
+    <div class="artist-home">
+      <!-- 배경 원 -->
+      <div class="background-circle"></div>
+
+      <!-- 상단 설명 텍스트 -->
+      <div class="description-container">
+        <h1 class="main-title">화법·화풍별 활동작가</h1>
+        <p class="description-text">
+          남종화풍 작가들이 영향을 받았던 화법과 화풍을 중심으로 작가 간
+          연관성을 확인할 수 있습니다.<br />
+          그래프 가운데에는 가장 많은 사람과 교류한 인물, 남종화풍 작가들이
+          영향을 받았던 다른 화풍과 화법에 대한 정보가 있습니다.<br />
+        </p>
+      </div>
+
+      <!-- 버튼 섹션 -->
+      <div class="button-section">
+        <a href="#" class="action-button" data-target="style"
+          >화풍별 작가 관계도</a
+        >
+        <a href="#" class="action-button" data-target="technic"
+          >화법별 작가 관계도</a
+        >
+        <a href="#" class="action-button" data-target="networking"
+          >작가 간 교류관계도</a
+        >
+      </div>
+
+      <!-- 그래프 섹션 -->
+
+      <div id="style" class="graph-section" style="display: flex">
+        <iframe
+          width="1400"
+          height="1200"
+          src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FseoyeonIm%2F0a3cc9d258a757a55389476f2776737f%2Fraw%2F59f5c24b77865d88fe7d8b1334aca7b50a8fc5e7%2Fnetwork-ff78dad0-435.gexf"
+          frameborder="0"
+          title="화풍별 작가 관계도"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <div id="technic" class="graph-section" style="display: flex">
+        <iframe
+          width="1400"
+          height="1200"
+          src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FseoyeonIm%2F94ab095a791cd40d092594a0843bb5cb%2Fraw%2F23bfedeec19bd120ddd8f14848857a3755d808c4%2Fnetwork-97e872af-f2b.gexf"
+          frameborder="0"
+          title="화법별 작가 관계도"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <div id="networking" class="graph-section" style="display: flex">
+        <iframe
+          width="1400"
+          height="1200"
+          src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FseoyeonIm%2F4095216c46d6da19d1533d7c8ce0a88b%2Fraw%2F6429c8ec0c90b8ad4a59793cf1007c153fbec3fb%2Fnetwork-66d27e77-835.gexf"
+          frameborder="0"
+          title="작가 간 교류 관계도"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <a href="javascript:history.back()" class="back-button">
+        <i class="fas fa-arrow-left"></i>
+      </a>
+      <a href="★★★★home.html" class="home-button">
+        <i class="fas fa-home"></i>
+      </a>
+    </div>
+  </body>
+</html>

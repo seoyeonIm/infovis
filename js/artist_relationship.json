@@ -1,0 +1,2018 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "directed"
+  },
+  "nodes": [
+    {
+      "key": "이명기",
+      "attributes": {
+        "label": "이명기",
+        "x": -58.390884,
+        "y": -137.04845,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps001",
+        "생몰년도": "1756-1813 추정",
+        "직업": "화원",
+        "화풍": "null",
+        "화법": "서양화법, 하엽준, 농묵, 담묵, 담채"
+      }
+    },
+    {
+      "key": "김홍도",
+      "attributes": {
+        "label": "김홍도",
+        "x": 4.560861E-15,
+        "y": 74.48451,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps002",
+        "생몰년도": "1745-1806 추정",
+        "직업": "화원",
+        "화풍": "북종원체화풍",
+        "화법": "수파묘, 하엽준, 수지법, 수묵담채, 단원법"
+      }
+    },
+    {
+      "key": "정홍래",
+      "attributes": {
+        "label": "정홍래",
+        "x": 145.95847,
+        "y": -29.797632,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps003",
+        "생몰년도": "1720-1760 추정",
+        "직업": "화원",
+        "화풍": "원체화풍, 남종화풍, 정선파화풍",
+        "화법": "진채, 미점준"
+      }
+    },
+    {
+      "key": "조속",
+      "attributes": {
+        "label": "조속",
+        "x": 148.8482,
+        "y": -5.998378,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps004",
+        "생몰년도": "1595-1688",
+        "직업": "문인서화가",
+        "화풍": "안견파화풍, 절파화풍, 남종화풍",
+        "화법": "미점준, 담묵"
+      }
+    },
+    {
+      "key": "신명연",
+      "attributes": {
+        "label": "신명연",
+        "x": 147.88287,
+        "y": 17.956232,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps005",
+        "생몰년도": "1808-1886",
+        "직업": "문인서화가",
+        "화풍": "운수평화풍",
+        "화법": "절지법, 백묘법"
+      }
+    },
+    {
+      "key": "강세황",
+      "attributes": {
+        "label": "강세황",
+        "x": -70.83898,
+        "y": -23.016981,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps006",
+        "생몰년도": "1713-1791",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "서양화법, 원근법"
+      }
+    },
+    {
+      "key": "이인문",
+      "attributes": {
+        "label": "이인문",
+        "x": -143.08745,
+        "y": 41.445786,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps007",
+        "생몰년도": "1745-1824 추정",
+        "직업": "화원",
+        "화풍": "북종화풍, 남종화풍, 남북종절충화풍",
+        "화법": "발묵법, 부벽준, 절대준, 피마준법, 우모준"
+      }
+    },
+    {
+      "key": "한용간",
+      "attributes": {
+        "label": "한용간",
+        "x": -129.01096,
+        "y": -74.48451,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps008",
+        "생몰년도": "1783-1829",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "조영석",
+      "attributes": {
+        "label": "조영석",
+        "x": 9.121722E-15,
+        "y": 148.96902,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps009",
+        "생몰년도": "1686-1761",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "안중식",
+      "attributes": {
+        "label": "안중식",
+        "x": -35.650623,
+        "y": -144.64026,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps010",
+        "생몰년도": "1861-1919",
+        "직업": "화사",
+        "화풍": "남종화풍, 청록산수화풍, 남북종절충화풍,",
+        "화법": "데생법, 설채법"
+      }
+    },
+    {
+      "key": "이인상",
+      "attributes": {
+        "label": "이인상",
+        "x": -69.229355,
+        "y": 131.90552,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps011",
+        "생몰년도": "1710-1760",
+        "직업": "문인서화가",
+        "화풍": "사인풍, 안휘파화풍, 원체화풍, 오파화풍",
+        "화법": "농묵, 우모준, 수묵담채"
+      }
+    },
+    {
+      "key": "유숙",
+      "attributes": {
+        "label": "유숙",
+        "x": -89.49199,
+        "y": 119.09221,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps012",
+        "생몰년도": "1827-1873",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "수묵담채"
+      }
+    },
+    {
+      "key": "신윤복",
+      "attributes": {
+        "label": "신윤복",
+        "x": 143.08745,
+        "y": 41.445786,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps013",
+        "생몰년도": "1758-1798 추정",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "설채법"
+      }
+    },
+    {
+      "key": "윤두서",
+      "attributes": {
+        "label": "윤두서",
+        "x": -1.3682583E-14,
+        "y": -74.48451,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps015",
+        "생몰년도": "1668-1715",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "김득신",
+      "attributes": {
+        "label": "김득신",
+        "x": -147.88287,
+        "y": 17.956232,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps016",
+        "생몰년도": "1754-1822",
+        "직업": "화원",
+        "화풍": "null",
+        "화법": "공필"
+      }
+    },
+    {
+      "key": "김후신",
+      "attributes": {
+        "label": "김후신",
+        "x": 134.58614,
+        "y": 63.86191,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps017",
+        "생몰년도": "1735-1775 추정",
+        "직업": "화원",
+        "화풍": "null",
+        "화법": "수묵화법, 농묵, 담묵"
+      }
+    },
+    {
+      "key": "윤덕희",
+      "attributes": {
+        "label": "윤덕희",
+        "x": 122.599106,
+        "y": 84.624054,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps018",
+        "생몰년도": "1685-1776",
+        "직업": "문인서화가",
+        "화풍": "남종화풍, 안견파화풍, 남종화풍, 절파화풍, 오파화풍, 안휘파화풍,",
+        "화법": "서양화법, 음영법, 미점준"
+      }
+    },
+    {
+      "key": "남계우",
+      "attributes": {
+        "label": "남계우",
+        "x": 58.390884,
+        "y": -137.04845,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps019",
+        "생몰년도": "1811-1888",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "공필"
+      }
+    },
+    {
+      "key": "정선",
+      "attributes": {
+        "label": "정선",
+        "x": -43.7809,
+        "y": 60.259235,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps020",
+        "생몰년도": "1676-1759",
+        "직업": "문인서화가",
+        "화풍": "오파화풍, 정선파화풍, 남종화풍",
+        "화법": "수묵화법, 적묵법,겸재준법, 상악준, 미점준, 부벽준, 몰골법, 구륵법"
+      }
+    },
+    {
+      "key": "심사정",
+      "attributes": {
+        "label": "심사정",
+        "x": -70.83898,
+        "y": 23.016981,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps021",
+        "생몰년도": "1707-1769",
+        "직업": "문인서화가",
+        "화풍": "남종화풍, 북종화풍",
+        "화법": "피마준법, 대부벽준, 수묵화법, 수묵담채, 대혼점, 부벽준"
+      }
+    },
+    {
+      "key": "김익주",
+      "attributes": {
+        "label": "김익주",
+        "x": 107.43683,
+        "y": 103.19447,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps022",
+        "생몰년도": "1684-1724 추정",
+        "직업": "화사",
+        "화풍": "남종화풍, 절파화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "이하곤",
+      "attributes": {
+        "label": "이하곤",
+        "x": 89.49199,
+        "y": 119.09221,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps023",
+        "생몰년도": "1677-1724",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "수묵담채"
+      }
+    },
+    {
+      "key": "신위",
+      "attributes": {
+        "label": "신위",
+        "x": 70.83898,
+        "y": 23.016981,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps024",
+        "생몰년도": "1769-1845",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "원사대가의 필법"
+      }
+    },
+    {
+      "key": "장승업",
+      "attributes": {
+        "label": "장승업",
+        "x": -148.8482,
+        "y": -5.998378,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps025",
+        "생몰년도": "1843-1897",
+        "직업": "화원",
+        "화풍": "북종화풍, 남종화풍",
+        "화법": "설채법, 음영법, 원사대가의 필법, 수묵담채, 파묵, 감필, 선묘, 필묘"
+      }
+    },
+    {
+      "key": "전기",
+      "attributes": {
+        "label": "전기",
+        "x": -107.43683,
+        "y": 103.19447,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps026",
+        "생몰년도": "1825-1854",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "피마준법"
+      }
+    },
+    {
+      "key": "정조",
+      "attributes": {
+        "label": "정조",
+        "x": 79.61885,
+        "y": -125.90714,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps027",
+        "생몰년도": "1776-1800",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "몰골법"
+      }
+    },
+    {
+      "key": "서병건",
+      "attributes": {
+        "label": "서병건",
+        "x": 69.229355,
+        "y": 131.90552,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps028",
+        "생몰년도": "1850-1890 추정",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "허련",
+      "attributes": {
+        "label": "허련",
+        "x": -122.599106,
+        "y": 84.624054,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps029",
+        "생몰년도": "1808-1983",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "허백련",
+      "attributes": {
+        "label": "허백련",
+        "x": -11.987026,
+        "y": -148.48596,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps030",
+        "생몰년도": "1891-1977",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "김수철",
+      "attributes": {
+        "label": "김수철",
+        "x": -43.7809,
+        "y": -60.259235,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps031",
+        "생몰년도": "1829-1862 추정",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "발묵법, 수묵담채, 선염법, 수지법, 몰골법"
+      }
+    },
+    {
+      "key": "조중묵",
+      "attributes": {
+        "label": "조중묵",
+        "x": 11.987026,
+        "y": -148.48596,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps032",
+        "생몰년도": "1820-1888 추정",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "최북",
+      "attributes": {
+        "label": "최북",
+        "x": 43.7809,
+        "y": 60.259235,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps033",
+        "생몰년도": "1712-1786 추정",
+        "직업": "화사",
+        "화풍": "남종화풍, 정선파화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "조석진",
+      "attributes": {
+        "label": "조석진",
+        "x": 98.78474,
+        "y": -111.50492,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps034",
+        "생몰년도": "1853-1920",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "피마준법, 발묵법, 담채"
+      }
+    },
+    {
+      "key": "허필",
+      "attributes": {
+        "label": "허필",
+        "x": -134.58614,
+        "y": 63.86191,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps035",
+        "생몰년도": "1709-1761",
+        "직업": "문인서화가",
+        "화풍": "남종화풍, 절파화풍, 정선파화풍, 오파화풍,",
+        "화법": "피마준법, 담묵, 담채"
+      }
+    },
+    {
+      "key": "허형",
+      "attributes": {
+        "label": "허형",
+        "x": 115.39215,
+        "y": -94.214775,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps036",
+        "생몰년도": "1862-1938",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "수묵화법, 수묵담채, 구륵법"
+      }
+    },
+    {
+      "key": "백은배",
+      "attributes": {
+        "label": "백은배",
+        "x": 35.650623,
+        "y": -144.64026,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps037",
+        "생몰년도": "1820-1901",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "수묵담채"
+      }
+    },
+    {
+      "key": "김응환",
+      "attributes": {
+        "label": "김응환",
+        "x": 70.83898,
+        "y": -23.016981,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps038",
+        "생몰년도": "1742-1789",
+        "직업": "화원",
+        "화풍": "남종화풍, 절파화풍",
+        "화법": "발묵법, 진채, 부벽준"
+      }
+    },
+    {
+      "key": "이재관",
+      "attributes": {
+        "label": "이재관",
+        "x": -145.95847,
+        "y": -29.797632,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps039",
+        "생몰년도": "1783-1849",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "윤묵, 공필, 수묵담채, 갈필"
+      }
+    },
+    {
+      "key": "김석신",
+      "attributes": {
+        "label": "김석신",
+        "x": -139.28845,
+        "y": -52.825146,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps040",
+        "생몰년도": "1758-1798 추정",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "필묵법"
+      }
+    },
+    {
+      "key": "김정희",
+      "attributes": {
+        "label": "김정희",
+        "x": 43.7809,
+        "y": -60.259235,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps041",
+        "생몰년도": "1786-1856",
+        "직업": "문인서화가",
+        "화풍": "null",
+        "화법": "미점준, 갈필, 담묵"
+      }
+    },
+    {
+      "key": "정수영",
+      "attributes": {
+        "label": "정수영",
+        "x": -115.39215,
+        "y": -94.214775,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps042",
+        "생몰년도": "1743-1831",
+        "직업": "문인서화가",
+        "화풍": "오파화풍, 안휘파화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "이방운",
+      "attributes": {
+        "label": "이방운",
+        "x": -98.78474,
+        "y": -111.50492,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps043",
+        "생몰년도": "1761-1815 추정",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "원사대가의 필법, 수파묘, 부벽준, 수묵담채, 서양화법"
+      }
+    },
+    {
+      "key": "윤제홍",
+      "attributes": {
+        "label": "윤제홍",
+        "x": -79.61885,
+        "y": -125.90714,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps044",
+        "생몰년도": "1764-1840 추정",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "지두화법, 필묵법, 담묵, 선염법"
+      }
+    },
+    {
+      "key": "조희룡",
+      "attributes": {
+        "label": "조희룡",
+        "x": -23.896313,
+        "y": 147.03992,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps045",
+        "생몰년도": "1789-1866",
+        "직업": "문인서화가",
+        "화풍": "null",
+        "화법": "비백법, 윤묵, 몰골법"
+      }
+    },
+    {
+      "key": "신익성",
+      "attributes": {
+        "label": "신익성",
+        "x": 23.896313,
+        "y": 147.03992,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps046",
+        "생몰년도": "1588-1644",
+        "직업": "문인서화가",
+        "화풍": "남종화풍, 절파화풍",
+        "화법": "필묵법"
+      }
+    },
+    {
+      "key": "허목",
+      "attributes": {
+        "label": "허목",
+        "x": 47.17372,
+        "y": 141.30255,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps047",
+        "생몰년도": "1595-1682",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "이우",
+      "attributes": {
+        "label": "이우",
+        "x": 129.01096,
+        "y": -74.48451,
+        "size": 20.0,
+        "color": "#9a96e5",
+        "class": "artist",
+        "artist_id": "ps048",
+        "생몰년도": "1637-1693",
+        "직업": "문인서화가",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "김유성",
+      "attributes": {
+        "label": "김유성",
+        "x": 139.28845,
+        "y": -52.825146,
+        "size": 20.0,
+        "color": "#f97743",
+        "class": "artist",
+        "artist_id": "ps049",
+        "생몰년도": "1725-1765 추정",
+        "직업": "화원",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    },
+    {
+      "key": "유재소",
+      "attributes": {
+        "label": "유재소",
+        "x": -47.17372,
+        "y": 141.30255,
+        "size": 20.0,
+        "color": "#28b36a",
+        "class": "artist",
+        "artist_id": "ps051",
+        "생몰년도": "1829-1911",
+        "직업": "화사",
+        "화풍": "남종화풍",
+        "화법": "null"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "김홍도",
+      "target": "김응환",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "1",
+      "source": "김홍도",
+      "target": "신윤복",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "김홍도",
+      "target": "김득신",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "김홍도",
+      "target": "김석신",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "김홍도",
+      "target": "이명기",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "김홍도",
+      "target": "이재관",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "김홍도",
+      "target": "백은배",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "김홍도",
+      "target": "유숙",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "조희룡",
+      "target": "김정희",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "조희룡",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "조희룡",
+      "target": "최북",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "심사정",
+      "target": "최북",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "심사정",
+      "target": "이방운",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "심사정",
+      "target": "이인문",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "심사정",
+      "target": "김홍도",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "심사정",
+      "target": "한용간",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "윤두서",
+      "target": "윤덕희",
+      "attributes": {
+        "label": "아버지다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "윤두서",
+      "target": "강세황",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "윤두서",
+      "target": "허련",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "강세황",
+      "target": "김홍도",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "강세황",
+      "target": "신위",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "이하곤",
+      "target": "정선",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "허형",
+      "target": "허백련",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "백은배",
+      "target": "안중식",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "안중식",
+      "target": "조석진",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "이방운",
+      "target": "김수철",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "이방운",
+      "target": "한용간",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "이인상",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "이인상",
+      "target": "김홍도",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "남계우",
+      "target": "서병건",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "신위",
+      "target": "신명연",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "신위",
+      "target": "조희룡",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "장승업",
+      "target": "안중식",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "장승업",
+      "target": "조석진",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "정선",
+      "target": "최북",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "정선",
+      "target": "김응환",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "정선",
+      "target": "김홍도",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "정선",
+      "target": "정수영",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "정선",
+      "target": "심사정",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "정선",
+      "target": "김석신",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "조영석",
+      "target": "김홍도",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "조영석",
+      "target": "이인상",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "조영석",
+      "target": "정선",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "한용간",
+      "target": "신위",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "허련",
+      "target": "허형",
+      "attributes": {
+        "label": "아버지다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "허련",
+      "target": "허백련",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "유숙",
+      "target": "장승업",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "김수철",
+      "target": "전기",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "김수철",
+      "target": "유재소",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "김수철",
+      "target": "조희룡",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "김정희",
+      "target": "전기",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "김정희",
+      "target": "허련",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "김정희",
+      "target": "유숙",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "김정희",
+      "target": "조중묵",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "김홍도",
+      "target": "한용간",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "강세황",
+      "target": "허필",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "강세황",
+      "target": "김응환",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "강세황",
+      "target": "최북",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "강세황",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "강세황",
+      "target": "정수영",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "이인문",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "이인문",
+      "target": "신위",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "조영석",
+      "target": "남계우",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "조영석",
+      "target": "강세황",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "이인상",
+      "target": "정수영",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "이인상",
+      "target": "이재관",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "이인상",
+      "target": "김수철",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "유숙",
+      "target": "전기",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "윤두서",
+      "target": "심사정",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "윤두서",
+      "target": "조영석",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "윤두서",
+      "target": "정선",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "윤두서",
+      "target": "김익주",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "윤두서",
+      "target": "김홍도",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "윤두서",
+      "target": "김득신",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "윤두서",
+      "target": "이인문",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "김득신",
+      "target": "최북",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "김득신",
+      "target": "김응환",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "김득신",
+      "target": "김석신",
+      "attributes": {
+        "label": "형이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "김후신",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "정선",
+      "target": "이방운",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "정선",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "정선",
+      "target": "김유성",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "정선",
+      "target": "정홍래",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "심사정",
+      "target": "강세황",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "심사정",
+      "target": "김응환",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "심사정",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "심사정",
+      "target": "정수영",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "심사정",
+      "target": "김유성",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "신위",
+      "target": "김정희",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "신위",
+      "target": "허련",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "장승업",
+      "target": "허백련",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "장승업",
+      "target": "백은배",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "전기",
+      "target": "유재소",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "정조",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "정조",
+      "target": "김응환",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "김수철",
+      "target": "허련",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "김수철",
+      "target": "유숙",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "김수철",
+      "target": "조중묵",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "김수철",
+      "target": "이재관",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "최북",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "최북",
+      "target": "이인문",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "허필",
+      "target": "강세황",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "허필",
+      "target": "정선",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "허필",
+      "target": "심사정",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "허필",
+      "target": "최북",
+      "attributes": {
+        "label": "영향을_준",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "허필",
+      "target": "조영석",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "김응환",
+      "target": "김홍도",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "김응환",
+      "target": "김석신",
+      "attributes": {
+        "label": "아버지다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "이재관",
+      "target": "김정희",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "김정희",
+      "target": "유재소",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "김정희",
+      "target": "김수철",
+      "attributes": {
+        "label": "스승이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "김정희",
+      "target": "신위",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "조희룡",
+      "target": "전기",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "조희룡",
+      "target": "이재관",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "이우",
+      "target": "허목",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "이우",
+      "target": "조속",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "유재소",
+      "target": "전기",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "유재소",
+      "target": "김수철",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "유재소",
+      "target": "유숙",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "유재소",
+      "target": "조중묵",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "이명기",
+      "target": "김응환",
+      "attributes": {
+        "label": "교류한",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "이명기",
+      "target": "김석신",
+      "attributes": {
+        "label": "매형이다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    }
+  ]
+}

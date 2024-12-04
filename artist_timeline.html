@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="./css/artist_timeline.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="module" src="/js/timeline.js"></script>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <title>작가의 활동시기</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- Title Section -->
+      <div class="title">남종화풍 작가들의 직업과 활동 시기</div>
+
+      <!-- Description Section -->
+      <div class="description">
+        남종화풍 작가들이 활동했던 시기를 중심으로 작가 간 연관성을
+        탐색해보세요.
+        <br />
+        어떤 직업을 가진 화가들이 주로 남종화풍의 영향을 받았을까요?<br />
+        문인들의 사의화를 지향한만큼 문인서화가도 많지만, 도화서가 활발하게
+        활동했던 시기인만큼 화원도 많았습니다.<br />
+        동시에, 그림을 그리는 것이 직업이 되었던 조선 후기, 그림을 업으로 삼았던
+        화사들도 등장하고 있습니다.
+      </div>
+
+      <!-- Timeline and Right Side -->
+      <div class="timeline-right-container">
+        <div id="timeline-container"></div>
+      </div>
+    </div>
+
+    <!-- 팝업창 컨테이너 -->
+    <div id="popup-container" class="popup-container hidden">
+      <iframe id="popup-frame" src="" frameborder="0"></iframe>
+      <button id="popup-close" class="popup-close">×</button>
+    </div>
+
+    <a href="javascript:history.back()" class="back-button">
+      <i class="fas fa-arrow-left"></i>
+    </a>
+    <a href="★★★★home.html" class="home-button">
+      <i class="fas fa-home"></i>
+    </a>
+
+    <script type="module">
+      import { createTimeline } from "/js/timeline.js";
+
+      // 타임라인 생성
+      createTimeline("timeline-container", "/js/timeline.json");
+    </script>
+  </body>
+</html>

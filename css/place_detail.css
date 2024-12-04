@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: "NanumSquareNeo", sans-serif;
+  background-color: #d1c9c9;
+}
+.container {
+  width: 672px;
+  height: 1807px;
+  padding: 20px 28px 1020px 31px;
+  background-color: #d1c9c9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.close-button {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+}
+.content-wrapper {
+  width: 613px;
+  height: 767px;
+  position: relative;
+}
+.title {
+  font-size: 32px;
+  font-weight: 400;
+  color: black;
+  position: absolute;
+  top: 24px;
+  left: 0;
+}
+.sub-title {
+  font-size: 15px;
+  font-weight: 400;
+  color: black;
+  position: absolute;
+  top: 0;
+  left: 5px;
+}
+.address {
+  font-size: 15px;
+  font-weight: 400;
+  color: black;
+  position: absolute;
+  top: 64px;
+  left: 5px;
+}
+.description-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: black;
+  position: absolute;
+  top: 452px;
+  left: 2px;
+}
+.description {
+  font-size: 15px;
+  font-weight: 400;
+  color: black;
+  line-height: 1.6;
+  letter-spacing: 1.5px;
+  position: absolute;
+  top: 453px;
+  left: 86px;
+  width: 498px;
+}
+.related-people-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: black;
+  position: absolute;
+  top: 700px;
+  left: 2px;
+}
+.related-people {
+  width: 498px;
+  position: absolute;
+  top: 700px;
+  left: 86px;
+  margin-top: 20px;
+}
+.tag-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.tag {
+  width: 100px;
+  height: 25px;
+  background-color: #d9d9d9;
+  border-radius: 25px;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.tag-description {
+  font-size: 15px;
+  font-weight: 400;
+  color: black;
+  letter-spacing: 1.5px;
+}

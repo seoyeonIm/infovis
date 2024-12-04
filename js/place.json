@@ -1,0 +1,3296 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "directed"
+  },
+  "nodes": [
+    {
+      "key": "개암사",
+      "attributes": {
+        "label": "개암사",
+        "x": -788.4114,
+        "y": -282.31818,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.66279,
+        "long": 126.6492,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "경묵당",
+      "attributes": {
+        "label": "경묵당",
+        "x": -89.04736,
+        "y": -988.79486,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.57161,
+        "long": 126.974,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "경포대",
+      "attributes": {
+        "label": "경포대",
+        "x": -984.95844,
+        "y": 52.453472,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.79525,
+        "long": 128.8966,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "과지초당",
+      "attributes": {
+        "label": "과지초당",
+        "x": 285.50394,
+        "y": 588.1287,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.45306,
+        "long": 127.0287,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "관립공업전습소",
+      "attributes": {
+        "label": "관립공업전습소",
+        "x": 680.25336,
+        "y": -719.70306,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.50838,
+        "long": 126.9337,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "구담봉",
+      "attributes": {
+        "label": "구담봉",
+        "x": -62.91707,
+        "y": 851.05444,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.93789,
+        "long": 128.2469,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산",
+      "attributes": {
+        "label": "금강산",
+        "x": 418.93997,
+        "y": -529.3997,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 38.65706,
+        "long": 128.1048,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 구룡연",
+      "attributes": {
+        "label": "금강산 구룡연",
+        "x": 107.007065,
+        "y": -655.73376,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 38.674333,
+        "long": 128.137278,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 명경대",
+      "attributes": {
+        "label": "금강산 명경대",
+        "x": -455.0454,
+        "y": -643.4063,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 38.616111,
+        "long": 128.082222,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 백운대",
+      "attributes": {
+        "label": "금강산 백운대",
+        "x": 147.04967,
+        "y": -815.7141,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 38.642222,
+        "long": 128.098889,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 백화암",
+      "attributes": {
+        "label": "금강산 백화암",
+        "x": -489.78265,
+        "y": -455.7507,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 38.627028,
+        "long": 128.067472,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 보덕암",
+      "attributes": {
+        "label": "금강산 보덕암",
+        "x": -59.60873,
+        "y": -664.44025,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 38.635778,
+        "long": 128.080278,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 비로봉",
+      "attributes": {
+        "label": "금강산 비로봉",
+        "x": -170.03589,
+        "y": -60.474747,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 38.656146,
+        "long": 128.105558,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 장안사",
+      "attributes": {
+        "label": "금강산 장안사",
+        "x": -370.03732,
+        "y": -333.09616,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 38.613194,
+        "long": 128.067194,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 정양사",
+      "attributes": {
+        "label": "금강산 정양사",
+        "x": -347.45926,
+        "y": -156.97493,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 38.63245,
+        "long": 128.0627,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "금강산 표훈사",
+      "attributes": {
+        "label": "금강산 표훈사",
+        "x": -333.21747,
+        "y": -519.5895,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 38.630361,
+        "long": 128.067833,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "기호학교",
+      "attributes": {
+        "label": "기호학교",
+        "x": 988.6194,
+        "y": 46.027325,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.58428,
+        "long": 126.9869,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김수철의 집",
+      "attributes": {
+        "label": "김수철의 집",
+        "x": -677.80225,
+        "y": -726.817,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.6095,
+        "long": 127.0615,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김정희의 집",
+      "attributes": {
+        "label": "김정희의 집",
+        "x": 622.47015,
+        "y": 239.0476,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.57734,
+        "long": 126.9717,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "낙산사",
+      "attributes": {
+        "label": "낙산사",
+        "x": -641.3928,
+        "y": 526.13495,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 38.12473,
+        "long": 128.628,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "남공철의 집",
+      "attributes": {
+        "label": "남공철의 집",
+        "x": -178.33177,
+        "y": -812.78406,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.4097,
+        "long": 127.0686,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "남산",
+      "attributes": {
+        "label": "남산",
+        "x": -468.50906,
+        "y": 277.90427,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.55387,
+        "long": 126.981,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "남송현",
+      "attributes": {
+        "label": "남송현",
+        "x": -986.89557,
+        "y": -108.98265,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.56225,
+        "long": 126.98,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "담졸헌",
+      "attributes": {
+        "label": "담졸헌",
+        "x": -51.60332,
+        "y": -338.70804,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 37.56944,
+        "long": 126.9952,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "대흥사 일지암",
+      "attributes": {
+        "label": "대흥사 일지암",
+        "x": 655.56744,
+        "y": 73.05324,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 34.47618,
+        "long": 126.6163,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "도봉서원",
+      "attributes": {
+        "label": "도봉서원",
+        "x": -514.6722,
+        "y": 640.3132,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.68824,
+        "long": 127.0292,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "도화서",
+      "attributes": {
+        "label": "도화서",
+        "x": 178.86508,
+        "y": -8.689457,
+        "size": 37.333336,
+        "color": "#ee7993",
+        "lat": 37.56665,
+        "long": 126.9836,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "만구음관",
+      "attributes": {
+        "label": "만구음관",
+        "x": 792.7235,
+        "y": -307.0823,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.06416,
+        "long": 126.0967,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "망양정",
+      "attributes": {
+        "label": "망양정",
+        "x": -761.0223,
+        "y": 392.7309,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.96732,
+        "long": 129.4125,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "망월사",
+      "attributes": {
+        "label": "망월사",
+        "x": -20.697863,
+        "y": 181.53453,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.70486,
+        "long": 127.0214,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "묘길상마애불",
+      "attributes": {
+        "label": "묘길상마애불",
+        "x": -609.669,
+        "y": 348.35324,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 38.64097,
+        "long": 128.0962,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "반송지",
+      "attributes": {
+        "label": "반송지",
+        "x": -347.1251,
+        "y": -764.2993,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.57058,
+        "long": 126.9577,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "병영교회",
+      "attributes": {
+        "label": "병영교회",
+        "x": 269.66333,
+        "y": 772.6379,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.57458,
+        "long": 129.3458,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "북악산",
+      "attributes": {
+        "label": "북악산",
+        "x": 306.51093,
+        "y": -775.6229,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.59367,
+        "long": 126.9734,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "사인암",
+      "attributes": {
+        "label": "사인암",
+        "x": -374.727,
+        "y": 724.6618,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.89453,
+        "long": 128.3404,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "사포서",
+      "attributes": {
+        "label": "사포서",
+        "x": -606.09875,
+        "y": -577.11554,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.57447,
+        "long": 126.9797,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "서화미술회",
+      "attributes": {
+        "label": "서화미술회",
+        "x": 249.45549,
+        "y": -960.4516,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.5754,
+        "long": 126.9797,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "세검정",
+      "attributes": {
+        "label": "세검정",
+        "x": -503.6595,
+        "y": -63.012787,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.59988,
+        "long": 126.9582,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "송석원",
+      "attributes": {
+        "label": "송석원",
+        "x": 134.80473,
+        "y": 305.84473,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 37.58348,
+        "long": 126.9667,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "화성행궁",
+      "attributes": {
+        "label": "화성행궁",
+        "x": -418.87888,
+        "y": -907.93005,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.28203,
+        "long": 127.0137,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "신위의 거주지",
+      "attributes": {
+        "label": "신위의 거주지",
+        "x": -895.62994,
+        "y": -438.1526,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.60117,
+        "long": 126.6709,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "내변산 실상사",
+      "attributes": {
+        "label": "내변산 실상사",
+        "x": -618.31213,
+        "y": -344.7886,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.6367,
+        "long": 126.5765,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "안기찰방 터",
+      "attributes": {
+        "label": "안기찰방 터",
+        "x": -184.26451,
+        "y": 456.1644,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.57253,
+        "long": 128.7146,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "안동별궁 터",
+      "attributes": {
+        "label": "안동별궁 터",
+        "x": 475.40784,
+        "y": -213.45576,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.57696,
+        "long": 126.9836,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "안산 사옹원 분원",
+      "attributes": {
+        "label": "안산 사옹원 분원",
+        "x": -324.92435,
+        "y": 179.5167,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.33265,
+        "long": 126.769,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "연진회관",
+      "attributes": {
+        "label": "연진회관",
+        "x": 856.6485,
+        "y": 514.16534,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.12916,
+        "long": 126.9674,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "옥순봉",
+      "attributes": {
+        "label": "옥순봉",
+        "x": -32.76216,
+        "y": 530.05774,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 36.94008,
+        "long": 128.2389,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "옥인동",
+      "attributes": {
+        "label": "옥인동",
+        "x": 65.60372,
+        "y": -497.6647,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.58382,
+        "long": 126.9634,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "완위각 터",
+      "attributes": {
+        "label": "완위각 터",
+        "x": 454.7884,
+        "y": -692.6389,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.838889,
+        "long": 127.523222,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "우금산 우금암",
+      "attributes": {
+        "label": "우금산 우금암",
+        "x": -727.30566,
+        "y": -455.21643,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.670835,
+        "long": 126.658113,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "운림산방",
+      "attributes": {
+        "label": "운림산방",
+        "x": 753.01697,
+        "y": 356.52292,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 34.46634,
+        "long": 126.3086,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "내변산 월명암",
+      "attributes": {
+        "label": "내변산 월명암",
+        "x": -823.7646,
+        "y": -107.946365,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.640778,
+        "long": 126.558194,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "월송정",
+      "attributes": {
+        "label": "월송정",
+        "x": -334.75482,
+        "y": 8.821204,
+        "size": 25.333334,
+        "color": "#ee7993",
+        "lat": 36.74326,
+        "long": 129.4685,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "윤덕희의 집",
+      "attributes": {
+        "label": "윤덕희의 집",
+        "x": 955.6772,
+        "y": -278.10007,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.55796,
+        "long": 126.9777,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "윤두서 고택",
+      "attributes": {
+        "label": "윤두서 고택",
+        "x": 796.7866,
+        "y": 191.02473,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 34.44065,
+        "long": 126.5184,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이인상의 집",
+      "attributes": {
+        "label": "이인상의 집",
+        "x": 109.63049,
+        "y": 819.9204,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.85104,
+        "long": 127.1098,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "인곡정사",
+      "attributes": {
+        "label": "인곡정사",
+        "x": -219.13585,
+        "y": -395.60104,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.5823,
+        "long": 126.9683,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "인왕산",
+      "attributes": {
+        "label": "인왕산",
+        "x": 130.71065,
+        "y": -159.02878,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.58508,
+        "long": 126.9593,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정만조의 서당",
+      "attributes": {
+        "label": "정만조의 서당",
+        "x": 746.15173,
+        "y": 665.0689,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 34.48276,
+        "long": 126.2808,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정선의 집",
+      "attributes": {
+        "label": "정선의 집",
+        "x": -30.349575,
+        "y": -168.26588,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.58689,
+        "long": 126.9714,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "종강모루",
+      "attributes": {
+        "label": "종강모루",
+        "x": -225.22449,
+        "y": 799.511,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.13479,
+        "long": 127.5965,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "죽서루",
+      "attributes": {
+        "label": "죽서루",
+        "x": -663.10803,
+        "y": 9.916046,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.44186,
+        "long": 129.1603,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "천축사",
+      "attributes": {
+        "label": "천축사",
+        "x": 128.63936,
+        "y": 644.99945,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.69432,
+        "long": 127.0194,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청간정",
+      "attributes": {
+        "label": "청간정",
+        "x": -663.6935,
+        "y": -158.52974,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 38.26441,
+        "long": 128.5583,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청계천 광교",
+      "attributes": {
+        "label": "청계천 광교",
+        "x": 289.04852,
+        "y": 398.36987,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.56884,
+        "long": 126.9827,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청계천 광통교",
+      "attributes": {
+        "label": "청계천 광통교",
+        "x": 549.0917,
+        "y": -401.9048,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.5688425,
+        "long": 126.9827313,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청문당",
+      "attributes": {
+        "label": "청문당",
+        "x": -486.5103,
+        "y": 102.70864,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 37.33938,
+        "long": 126.8728,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청안 삼성당",
+      "attributes": {
+        "label": "청안 삼성당",
+        "x": 237.8134,
+        "y": -456.82794,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.77131,
+        "long": 127.5915,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "청풍한벽루",
+      "attributes": {
+        "label": "청풍한벽루",
+        "x": -323.80453,
+        "y": 361.49765,
+        "size": 24.0,
+        "color": "#ee7993",
+        "lat": 37.00501,
+        "long": 128.1717,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "총석정",
+      "attributes": {
+        "label": "총석정",
+        "x": -170.68066,
+        "y": 100.56746,
+        "size": 26.666668,
+        "color": "#ee7993",
+        "lat": 38.93546,
+        "long": 127.88,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "최석환의 집",
+      "attributes": {
+        "label": "최석환의 집",
+        "x": -924.67566,
+        "y": 378.3013,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.97245,
+        "long": 126.8596,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "추사 김정희 선생 고택",
+      "attributes": {
+        "label": "추사 김정희 선생 고택",
+        "x": 423.02267,
+        "y": 497.0897,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 36.74684,
+        "long": 126.7986,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "추사관",
+      "attributes": {
+        "label": "추사관",
+        "x": 546.62134,
+        "y": 606.4562,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 33.2503,
+        "long": 126.2783,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "춘설헌",
+      "attributes": {
+        "label": "춘설헌",
+        "x": 966.0243,
+        "y": 201.93419,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 35.12927,
+        "long": 126.9667,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "팔달산",
+      "attributes": {
+        "label": "팔달산",
+        "x": 109.801575,
+        "y": -331.86172,
+        "size": 22.666666,
+        "color": "#ee7993",
+        "lat": 37.2794,
+        "long": 127.0097,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "한라산",
+      "attributes": {
+        "label": "한라산",
+        "x": -193.87653,
+        "y": 636.0212,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 33.36224,
+        "long": 126.529,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "한성서화관",
+      "attributes": {
+        "label": "한성서화관",
+        "x": 554.2833,
+        "y": -822.269,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.56442,
+        "long": 126.9749,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허필의 고향집",
+      "attributes": {
+        "label": "허필의 고향집",
+        "x": -819.66547,
+        "y": 64.735855,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.87663,
+        "long": 126.7118,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허필의 집",
+      "attributes": {
+        "label": "허필의 집",
+        "x": -794.94305,
+        "y": 228.30939,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 37.55856,
+        "long": 126.9943,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허형 가문의 생가",
+      "attributes": {
+        "label": "허형 가문의 생가",
+        "x": 418.47766,
+        "y": 708.16327,
+        "size": 21.333334,
+        "color": "#ee7993",
+        "lat": 34.79294,
+        "long": 126.4197,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "홍지문",
+      "attributes": {
+        "label": "홍지문",
+        "x": 642.6959,
+        "y": -88.093254,
+        "size": 28.0,
+        "color": "#ee7993",
+        "lat": 37.59881,
+        "long": 126.9566,
+        "class": "장소",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이명기",
+      "attributes": {
+        "label": "이명기",
+        "x": 139.5956,
+        "y": 141.10939,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김홍도",
+      "attributes": {
+        "label": "김홍도",
+        "x": -170.93965,
+        "y": 274.66037,
+        "size": 30.666668,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정홍래",
+      "attributes": {
+        "label": "정홍래",
+        "x": 326.56567,
+        "y": -114.41117,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "조속",
+      "attributes": {
+        "label": "조속",
+        "x": -472.71957,
+        "y": 865.2288,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "신명연",
+      "attributes": {
+        "label": "신명연",
+        "x": -607.26904,
+        "y": 781.03357,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "강세황",
+      "attributes": {
+        "label": "강세황",
+        "x": -506.54868,
+        "y": -234.64723,
+        "size": 40.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이인문",
+      "attributes": {
+        "label": "이인문",
+        "x": 0.41544414,
+        "y": 3.1863735,
+        "size": 26.666668,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "한용간",
+      "attributes": {
+        "label": "한용간",
+        "x": -726.2648,
+        "y": 671.8745,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "조영석",
+      "attributes": {
+        "label": "조영석",
+        "x": 268.17374,
+        "y": -615.9869,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "안중식",
+      "attributes": {
+        "label": "안중식",
+        "x": 81.768715,
+        "y": -989.0867,
+        "size": 22.666666,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이인상",
+      "attributes": {
+        "label": "이인상",
+        "x": -34.137363,
+        "y": 694.87305,
+        "size": 25.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "유숙",
+      "attributes": {
+        "label": "유숙",
+        "x": 336.4307,
+        "y": 62.17516,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "신윤복",
+      "attributes": {
+        "label": "신윤복",
+        "x": 487.1011,
+        "y": 131.37799,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "최석환",
+      "attributes": {
+        "label": "최석환",
+        "x": -836.0119,
+        "y": 542.6971,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "윤두서",
+      "attributes": {
+        "label": "윤두서",
+        "x": 686.1079,
+        "y": 513.19965,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김득신",
+      "attributes": {
+        "label": "김득신",
+        "x": 265.41177,
+        "y": -266.50443,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김후신",
+      "attributes": {
+        "label": "김후신",
+        "x": 295.74432,
+        "y": 221.18066,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "윤덕희",
+      "attributes": {
+        "label": "윤덕희",
+        "x": 822.8513,
+        "y": 21.496544,
+        "size": 22.666666,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "남계우",
+      "attributes": {
+        "label": "남계우",
+        "x": -966.47046,
+        "y": 212.27415,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정선",
+      "attributes": {
+        "label": "정선",
+        "x": -197.25153,
+        "y": -225.38873,
+        "size": 38.666664,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "심사정",
+      "attributes": {
+        "label": "심사정",
+        "x": -231.41124,
+        "y": -643.3333,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김익주",
+      "attributes": {
+        "label": "김익주",
+        "x": -953.7511,
+        "y": -273.37006,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이하곤",
+      "attributes": {
+        "label": "이하곤",
+        "x": 589.6587,
+        "y": -581.9373,
+        "size": 22.666666,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "신위",
+      "attributes": {
+        "label": "신위",
+        "x": -799.4143,
+        "y": -600.94214,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "장승업",
+      "attributes": {
+        "label": "장승업",
+        "x": 389.95062,
+        "y": -360.51163,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "전기",
+      "attributes": {
+        "label": "전기",
+        "x": 637.4268,
+        "y": -253.78609,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정조",
+      "attributes": {
+        "label": "정조",
+        "x": -256.89526,
+        "y": -958.0611,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "서병건",
+      "attributes": {
+        "label": "서병건",
+        "x": 792.805,
+        "y": -595.8904,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허련",
+      "attributes": {
+        "label": "허련",
+        "x": 567.928,
+        "y": 402.1409,
+        "size": 25.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허백련",
+      "attributes": {
+        "label": "허백련",
+        "x": 922.6016,
+        "y": 356.38922,
+        "size": 26.666668,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김수철",
+      "attributes": {
+        "label": "김수철",
+        "x": -544.835,
+        "y": -805.5864,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "조중묵",
+      "attributes": {
+        "label": "조중묵",
+        "x": 483.9559,
+        "y": -41.953583,
+        "size": 25.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "최북",
+      "attributes": {
+        "label": "최북",
+        "x": -13.689141,
+        "y": -831.21875,
+        "size": 22.666666,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "조석진",
+      "attributes": {
+        "label": "조석진",
+        "x": 411.32077,
+        "y": -903.7649,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허필",
+      "attributes": {
+        "label": "허필",
+        "x": -636.316,
+        "y": 175.0537,
+        "size": 37.333336,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허형",
+      "attributes": {
+        "label": "허형",
+        "x": 613.58374,
+        "y": 765.20435,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "백은배",
+      "attributes": {
+        "label": "백은배",
+        "x": 134.19592,
+        "y": 474.97958,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김응환",
+      "attributes": {
+        "label": "김응환",
+        "x": -106.73978,
+        "y": -508.53375,
+        "size": 30.666668,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이재관",
+      "attributes": {
+        "label": "이재관",
+        "x": -22.192785,
+        "y": 359.90512,
+        "size": 25.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김석신",
+      "attributes": {
+        "label": "김석신",
+        "x": 890.6051,
+        "y": -450.4868,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김정희",
+      "attributes": {
+        "label": "김정희",
+        "x": 441.49026,
+        "y": 299.51996,
+        "size": 29.333332,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "정수영",
+      "attributes": {
+        "label": "정수영",
+        "x": 980.009,
+        "y": -115.542305,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이방운",
+      "attributes": {
+        "label": "이방운",
+        "x": -472.9773,
+        "y": 468.3032,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "윤제홍",
+      "attributes": {
+        "label": "윤제홍",
+        "x": -335.27545,
+        "y": 553.35254,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "조희룡",
+      "attributes": {
+        "label": "조희룡",
+        "x": 704.9153,
+        "y": -450.38217,
+        "size": 24.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "신익성",
+      "attributes": {
+        "label": "신익성",
+        "x": 486.55417,
+        "y": 864.6677,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "허목",
+      "attributes": {
+        "label": "허목",
+        "x": 338.83435,
+        "y": 927.23975,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이우",
+      "attributes": {
+        "label": "이우",
+        "x": 184.69833,
+        "y": 971.6359,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "김유성",
+      "attributes": {
+        "label": "김유성",
+        "x": 18.67331,
+        "y": 996.3693,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이유신",
+      "attributes": {
+        "label": "이유신",
+        "x": -165.48366,
+        "y": 983.86444,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "유재소",
+      "attributes": {
+        "label": "유재소",
+        "x": 807.089,
+        "y": -140.10654,
+        "size": 21.333334,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    },
+    {
+      "key": "이윤영",
+      "attributes": {
+        "label": "이윤영",
+        "x": -328.25464,
+        "y": 933.95197,
+        "size": 20.0,
+        "color": "#3fb17d",
+        "lat": "null",
+        "long": "null",
+        "class": "작가",
+        "splitter_z_value": 0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "개암사",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "1",
+      "source": "경묵당",
+      "target": "안중식",
+      "attributes": {
+        "label": "운영했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "경포대",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "과지초당",
+      "target": "김정희",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "관립공업전습소",
+      "target": "조석진",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "구담봉",
+      "target": "이인상",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "금강산",
+      "target": "조영석",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "금강산",
+      "target": "이하곤",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "금강산",
+      "target": "조희룡",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "금강산 구룡연",
+      "target": "최북",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "금강산 구룡연",
+      "target": "김응환",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "금강산 명경대",
+      "target": "강세황",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "금강산 명경대",
+      "target": "심사정",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "금강산 명경대",
+      "target": "김응환",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "금강산 백운대",
+      "target": "김응환",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "금강산 백화암",
+      "target": "강세황",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "금강산 백화암",
+      "target": "김응환",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "금강산 보덕암",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "금강산 보덕암",
+      "target": "심사정",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "금강산 비로봉",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "금강산 장안사",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "금강산 장안사",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "금강산 장안사",
+      "target": "김응환",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "금강산 정양사",
+      "target": "강세황",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "금강산 정양사",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "금강산 표훈사",
+      "target": "강세황",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "금강산 표훈사",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "금강산 표훈사",
+      "target": "김응환",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "기호학교",
+      "target": "허백련",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "김수철의 집",
+      "target": "김수철",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "김정희의 집",
+      "target": "허련",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "김정희의 집",
+      "target": "김정희",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "낙산사",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "남공철의 집",
+      "target": "최북",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "남산",
+      "target": "허필",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "남송현",
+      "target": "남계우",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "담졸헌",
+      "target": "이인문",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "담졸헌",
+      "target": "정선",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "담졸헌",
+      "target": "김응환",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "대흥사 일지암",
+      "target": "김정희",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "도봉서원",
+      "target": "이방운",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "도화서",
+      "target": "이명기",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "도화서",
+      "target": "김홍도",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "도화서",
+      "target": "정홍래",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "도화서",
+      "target": "이인문",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "도화서",
+      "target": "유숙",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "도화서",
+      "target": "신윤복",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "도화서",
+      "target": "김득신",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "도화서",
+      "target": "김후신",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "도화서",
+      "target": "장승업",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "도화서",
+      "target": "조중묵",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "도화서",
+      "target": "백은배",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "도화서",
+      "target": "김응환",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "도화서",
+      "target": "이재관",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "만구음관",
+      "target": "조희룡",
+      "attributes": {
+        "label": "유배됐다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "망양정",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "망월사",
+      "target": "이재관",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "묘길상마애불",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "반송지",
+      "target": "심사정",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "병영교회",
+      "target": "허형",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "북악산",
+      "target": "조영석",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "사인암",
+      "target": "이방운",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "사포서",
+      "target": "강세황",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "서화미술회",
+      "target": "안중식",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "서화미술회",
+      "target": "조석진",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "세검정",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "세검정",
+      "target": "허필",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "송석원",
+      "target": "김홍도",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "송석원",
+      "target": "이인문",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "송석원",
+      "target": "김정희",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "화성행궁",
+      "target": "정조",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "신위의 거주지",
+      "target": "신위",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "내변산 실상사",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "안기찰방 터",
+      "target": "김홍도",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "안동별궁 터",
+      "target": "장승업",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "안동별궁 터",
+      "target": "조중묵",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "안산 사옹원 분원",
+      "target": "김홍도",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "안산 사옹원 분원",
+      "target": "강세황",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "연진회관",
+      "target": "허백련",
+      "attributes": {
+        "label": "운영했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "옥순봉",
+      "target": "김홍도",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "옥순봉",
+      "target": "이인상",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "옥순봉",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "옥인동",
+      "target": "조영석",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "옥인동",
+      "target": "정선",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "완위각 터",
+      "target": "이하곤",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "우금산 우금암",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "운림산방",
+      "target": "허련",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "운림산방",
+      "target": "허백련",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "운림산방",
+      "target": "허형",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "내변산 월명암",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "월송정",
+      "target": "김홍도",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "월송정",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "월송정",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "월송정",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "윤덕희의 집",
+      "target": "윤덕희",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "윤두서 고택",
+      "target": "윤두서",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "윤두서 고택",
+      "target": "윤덕희",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "윤두서 고택",
+      "target": "허련",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "이인상의 집",
+      "target": "이인상",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "인곡정사",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "인왕산",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "인왕산",
+      "target": "조중묵",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "정만조의 서당",
+      "target": "허백련",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "정선의 집",
+      "target": "정선",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "종강모루",
+      "target": "이인상",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "죽서루",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "죽서루",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "천축사",
+      "target": "이재관",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "청간정",
+      "target": "강세황",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "청간정",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "청계천 광교",
+      "target": "유숙",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "청계천 광통교",
+      "target": "장승업",
+      "attributes": {
+        "label": "운영했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "청문당",
+      "target": "김홍도",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "청문당",
+      "target": "강세황",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "청문당",
+      "target": "허필",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "청안 삼성당",
+      "target": "김득신",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "청풍한벽루",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "청풍한벽루",
+      "target": "이방운",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "청풍한벽루",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "총석정",
+      "target": "김홍도",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "총석정",
+      "target": "이인문",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "총석정",
+      "target": "정선",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "122",
+      "source": "총석정",
+      "target": "허필",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "123",
+      "source": "총석정",
+      "target": "이재관",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "124",
+      "source": "최석환의 집",
+      "target": "최석환",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "125",
+      "source": "추사 김정희 선생 고택",
+      "target": "김정희",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "126",
+      "source": "추사관",
+      "target": "허련",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "추사관",
+      "target": "김정희",
+      "attributes": {
+        "label": "유배됐다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "128",
+      "source": "춘설헌",
+      "target": "허백련",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "팔달산",
+      "target": "이인문",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "130",
+      "source": "팔달산",
+      "target": "김득신",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "131",
+      "source": "한라산",
+      "target": "윤제홍",
+      "attributes": {
+        "label": "그렸다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "132",
+      "source": "한성서화관",
+      "target": "조석진",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "133",
+      "source": "허필의 고향집",
+      "target": "허필",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "134",
+      "source": "허필의 집",
+      "target": "허필",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "135",
+      "source": "허형 가문의 생가",
+      "target": "허형",
+      "attributes": {
+        "label": "살았다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "136",
+      "source": "홍지문",
+      "target": "유숙",
+      "attributes": {
+        "label": "방문했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "137",
+      "source": "홍지문",
+      "target": "전기",
+      "attributes": {
+        "label": "운영했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "138",
+      "source": "홍지문",
+      "target": "조중묵",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "139",
+      "source": "홍지문",
+      "target": "김정희",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "140",
+      "source": "홍지문",
+      "target": "조희룡",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "141",
+      "source": "홍지문",
+      "target": "유재소",
+      "attributes": {
+        "label": "활동했다",
+        "color": "#c0c0c0",
+        "weight": 1.0
+      }
+    }
+  ]
+}

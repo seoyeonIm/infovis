@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-12-03">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="class" title="class" type="string"/>
+      <attribute id="artist_id" title="artist_id" type="string"/>
+      <attribute id="생몰년도" title="생몰년도" type="string"/>
+      <attribute id="직업" title="직업" type="string"/>
+      <attribute id="화풍" title="화풍" type="string"/>
+      <attribute id="화법" title="화법" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="이명기" label="이명기">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps001"/>
+          <attvalue for="생몰년도" value="1756-1813 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화법" value="서양화법, 하엽준, 농묵, 담묵, 담채"/>
+        </attvalues>
+        <viz:size value="22.0"/>
+        <viz:position x="-29.95743" y="-323.67468"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="김홍도" label="김홍도">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps002"/>
+          <attvalue for="생몰년도" value="1745-1806 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="북종원체화풍"/>
+          <attvalue for="화법" value="수파묘, 하엽준, 수지법, 수묵담채, 단원법"/>
+        </attvalues>
+        <viz:size value="40.0"/>
+        <viz:position x="9.952032E-15" y="162.52902"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="정홍래" label="정홍래">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps003"/>
+          <attvalue for="생몰년도" value="1720-1760 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="원체화풍, 남종화풍, 정선파화풍"/>
+          <attvalue for="화법" value="진채, 미점준"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="324.21616" y="23.379795"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="조속" label="조속">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps004"/>
+          <attvalue for="생몰년도" value="1595-1688"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="안견파화풍, 절파화풍, 남종화풍"/>
+          <attvalue for="화법" value="미점준, 담묵"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="317.24792" y="70.82724"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="신명연" label="신명연">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps005"/>
+          <attvalue for="생몰년도" value="1808-1886"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="운수평화풍"/>
+          <attvalue for="화법" value="절지법, 백묘법"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="303.37457" y="116.733086"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="강세황" label="강세황">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps006"/>
+          <attvalue for="생몰년도" value="1713-1791"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="서양화법, 원근법"/>
+        </attvalues>
+        <viz:size value="30.0"/>
+        <viz:position x="-143.46092" y="-76.384865"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="이인문" label="이인문">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps007"/>
+          <attvalue for="생몰년도" value="1745-1824 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="북종화풍, 남종화풍, 남북종절충화풍"/>
+          <attvalue for="화법" value="발묵법, 부벽준, 절대준, 피마준법, 우모준"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="-324.03473" y="25.77292"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="한용간" label="한용간">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps008"/>
+          <attvalue for="생몰년도" value="1783-1829"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="23.0"/>
+        <viz:position x="-225.78511" y="-233.84572"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="조영석" label="조영석">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps009"/>
+          <attvalue for="생몰년도" value="1686-1761"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1.9904065E-14" y="325.05804"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="안중식" label="안중식">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps010"/>
+          <attvalue for="생몰년도" value="1861-1919"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍, 청록산수화풍, 남북종절충화풍,"/>
+          <attvalue for="화법" value="데생법, 설채법"/>
+        </attvalues>
+        <viz:size value="22.0"/>
+        <viz:position x="22.78131" y="-324.25876"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="이인상" label="이인상">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps011"/>
+          <attvalue for="생몰년도" value="1710-1760"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="사인풍, 안휘파화풍, 원체화풍, 오파화풍"/>
+          <attvalue for="화법" value="농묵, 우모준, 수묵담채"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-176.01488" y="273.27917"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="유숙" label="유숙">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps012"/>
+          <attvalue for="생몰년도" value="1827-1873"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="수묵담채"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-223.18149" y="236.33188"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="신윤복" label="신윤복">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps013"/>
+          <attvalue for="생몰년도" value="1758-1798 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="설채법"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="282.89807" y="160.09816"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="윤두서" label="윤두서">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps015"/>
+          <attvalue for="생몰년도" value="1668-1715"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="29.0"/>
+        <viz:position x="23.356232" y="-160.84207"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="김득신" label="김득신">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps016"/>
+          <attvalue for="생몰년도" value="1754-1822"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화법" value="공필"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="-323.5038" y="-31.7493"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="김후신" label="김후신">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps017"/>
+          <attvalue for="생몰년도" value="1735-1775 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화법" value="수묵화법, 농묵, 담묵"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="256.26413" y="199.97859"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="윤덕희" label="윤덕희">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps018"/>
+          <attvalue for="생몰년도" value="1685-1776"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍, 안견파화풍, 남종화풍, 절파화풍, 오파화풍, 안휘파화풍,"/>
+          <attvalue for="화법" value="서양화법, 음영법, 미점준"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="224.05243" y="235.50636"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="남계우" label="남계우">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps019"/>
+          <attvalue for="생몰년도" value="1811-1888"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="공필"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="213.40315" y="-245.19754"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="정선" label="정선">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps020"/>
+          <attvalue for="생몰년도" value="1676-1759"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="오파화풍, 정선파화풍, 남종화풍"/>
+          <attvalue for="화법" value="수묵화법, 적묵법,겸재준법, 상악준, 미점준, 부벽준, 몰골법, 구륵법"/>
+        </attvalues>
+        <viz:size value="33.0"/>
+        <viz:position x="-111.014465" y="118.70751"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="심사정" label="심사정">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps021"/>
+          <attvalue for="생몰년도" value="1707-1769"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍, 북종화풍"/>
+          <attvalue for="화법" value="피마준법, 대부벽준, 수묵화법, 수묵담채, 대혼점, 부벽준"/>
+        </attvalues>
+        <viz:size value="32.0"/>
+        <viz:position x="-160.71965" y="24.18428"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="김익주" label="김익주">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps022"/>
+          <attvalue for="생몰년도" value="1684-1724 추정"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍, 절파화풍"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="186.96408" y="265.9082"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="이하곤" label="이하곤">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps023"/>
+          <attvalue for="생몰년도" value="1677-1724"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="수묵담채"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="145.80635" y="290.52237"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="신위" label="신위">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps024"/>
+          <attvalue for="생몰년도" value="1769-1845"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="원사대가의 필법"/>
+        </attvalues>
+        <viz:size value="27.0"/>
+        <viz:position x="154.04878" y="51.8137"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="장승업" label="장승업">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps025"/>
+          <attvalue for="생몰년도" value="1843-1897"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="북종화풍, 남종화풍"/>
+          <attvalue for="화법" value="설채법, 음영법, 원사대가의 필법, 수묵담채, 파묵, 감필, 선묘, 필묘"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="-312.8416" y="-88.277214"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="전기" label="전기">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps026"/>
+          <attvalue for="생몰년도" value="1825-1854"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="피마준법"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-262.76572" y="191.35545"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="정조" label="정조">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps027"/>
+          <attvalue for="생몰년도" value="1776-1800"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="몰골법"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="248.7087" y="-209.30057"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="서병건" label="서병건">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps028"/>
+          <attvalue for="생몰년도" value="1850-1890 추정"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="101.47505" y="308.81314"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="허련" label="허련">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps029"/>
+          <attvalue for="생몰년도" value="1808-1983"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-293.42276" y="139.87791"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="허백련" label="허백련">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps030"/>
+          <attvalue for="생몰년도" value="1891-1977"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="22.0"/>
+        <viz:position x="74.920296" y="-316.30634"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="김수철" label="김수철">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps031"/>
+          <attvalue for="생몰년도" value="1829-1862 추정"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="발묵법, 수묵담채, 선염법, 수지법, 몰골법"/>
+        </attvalues>
+        <viz:size value="30.0"/>
+        <viz:position x="-72.66572" y="-145.38011"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="조중묵" label="조중묵">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps032"/>
+          <attvalue for="생몰년도" value="1820-1888 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="22.0"/>
+        <viz:position x="125.086914" y="-300.02667"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="최북" label="최북">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps033"/>
+          <attvalue for="생몰년도" value="1712-1786 추정"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍, 정선파화풍"/>
+        </attvalues>
+        <viz:size value="27.0"/>
+        <viz:position x="103.470856" y="125.33741"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="조석진" label="조석진">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps034"/>
+          <attvalue for="생몰년도" value="1853-1920"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="피마준법, 발묵법, 담채"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="278.04718" y="-168.382"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="허필" label="허필">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps035"/>
+          <attvalue for="생몰년도" value="1709-1761"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍, 절파화풍, 정선파화풍, 오파화풍,"/>
+          <attvalue for="화법" value="피마준법, 담묵, 담채"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="-314.11102" y="83.648155"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="허형" label="허형">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps036"/>
+          <attvalue for="생몰년도" value="1862-1938"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="수묵화법, 수묵담채, 구륵법"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="300.71472" y="-123.423615"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="백은배" label="백은배">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps037"/>
+          <attvalue for="생몰년도" value="1820-1901"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="수묵담채"/>
+        </attvalues>
+        <viz:size value="22.0"/>
+        <viz:position x="171.96043" y="-275.84842"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="김응환" label="김응환">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps038"/>
+          <attvalue for="생몰년도" value="1742-1789"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍, 절파화풍"/>
+          <attvalue for="화법" value="발묵법, 진채, 부벽준"/>
+        </attvalues>
+        <viz:size value="28.0"/>
+        <viz:position x="157.7908" y="-38.958256"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="이재관" label="이재관">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps039"/>
+          <attvalue for="생몰년도" value="1783-1849"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="윤묵, 공필, 수묵담채, 갈필"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="-292.382" y="-142.04051"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="김석신" label="김석신">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps040"/>
+          <attvalue for="생몰년도" value="1758-1798 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="필묵법"/>
+        </attvalues>
+        <viz:size value="24.0"/>
+        <viz:position x="-262.76572" y="-191.35545"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="김정희" label="김정희">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps041"/>
+          <attvalue for="생몰년도" value="1786-1856"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화법" value="미점준, 갈필, 담묵"/>
+        </attvalues>
+        <viz:size value="29.0"/>
+        <viz:position x="109.78587" y="-119.84467"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="정수영" label="정수영">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps042"/>
+          <attvalue for="생몰년도" value="1743-1831"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="오파화풍, 안휘파화풍"/>
+        </attvalues>
+        <viz:size value="23.0"/>
+        <viz:position x="-183.01729" y="-268.63992"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="이방운" label="이방운">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps043"/>
+          <attvalue for="생몰년도" value="1761-1815 추정"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="원사대가의 필법, 수파묘, 부벽준, 수묵담채, 서양화법"/>
+        </attvalues>
+        <viz:size value="23.0"/>
+        <viz:position x="-134.98438" y="-295.70587"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+      <node id="윤제홍" label="윤제홍">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps044"/>
+          <attvalue for="생몰년도" value="1764-1840 추정"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+          <attvalue for="화법" value="지두화법, 필묵법, 담묵, 선염법"/>
+        </attvalues>
+        <viz:size value="23.0"/>
+        <viz:position x="-83.068214" y="-314.26486"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="조희룡" label="조희룡">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps045"/>
+          <attvalue for="생몰년도" value="1789-1866"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화법" value="비백법, 윤묵, 몰골법"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="-62.017456" y="319.0871"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="허목" label="허목">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps047"/>
+          <attvalue for="생몰년도" value="1595-1682"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="54.935078" y="320.3824"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="이우" label="이우">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps048"/>
+          <attvalue for="생몰년도" value="1637-1693"/>
+          <attvalue for="직업" value="문인서화가"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="316.16748" y="-75.50402"/>
+        <viz:color r="125" g="78" b="0"/>
+      </node>
+      <node id="김유성" label="김유성">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps049"/>
+          <attvalue for="생몰년도" value="1725-1765 추정"/>
+          <attvalue for="직업" value="화원"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="21.0"/>
+        <viz:position x="324.03473" y="-25.77292"/>
+        <viz:color r="0" g="102" b="135"/>
+      </node>
+      <node id="유재소" label="유재소">
+        <attvalues>
+          <attvalue for="class" value="artist"/>
+          <attvalue for="artist_id" value="ps051"/>
+          <attvalue for="생몰년도" value="1829-1911"/>
+          <attvalue for="직업" value="화사"/>
+          <attvalue for="화풍" value="남종화풍"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="-121.75653" y="301.3936"/>
+        <viz:color r="191" g="24" b="0"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="김홍도" target="김응환" label="교류한"/>
+      <edge id="1" source="김홍도" target="신윤복" label="영향을준"/>
+      <edge id="2" source="김홍도" target="김득신" label="영향을준"/>
+      <edge id="3" source="김홍도" target="김석신" label="영향을준"/>
+      <edge id="4" source="김홍도" target="이명기" label="영향을_준"/>
+      <edge id="5" source="김홍도" target="이재관" label="영향을_준"/>
+      <edge id="6" source="김홍도" target="백은배" label="영향을_준"/>
+      <edge id="7" source="김홍도" target="유숙" label="영향을_준"/>
+      <edge id="8" source="조희룡" target="김정희" label="스승이다"/>
+      <edge id="9" source="조희룡" target="김홍도" label="교류한"/>
+      <edge id="10" source="조희룡" target="최북" label="교류한"/>
+      <edge id="11" source="심사정" target="최북" label="영향을_준"/>
+      <edge id="12" source="심사정" target="이방운" label="영향을_준"/>
+      <edge id="13" source="심사정" target="이인문" label="영향을_준"/>
+      <edge id="14" source="심사정" target="김홍도" label="영향을_준"/>
+      <edge id="15" source="심사정" target="한용간" label="영향을_준"/>
+      <edge id="16" source="윤두서" target="윤덕희" label="아버지다"/>
+      <edge id="17" source="윤두서" target="강세황" label="영향을_준"/>
+      <edge id="18" source="윤두서" target="허련" label="영향을_준"/>
+      <edge id="19" source="강세황" target="김홍도" label="스승이다"/>
+      <edge id="20" source="강세황" target="신위" label="스승이다"/>
+      <edge id="21" source="이하곤" target="정선" label="교류한"/>
+      <edge id="22" source="허형" target="허백련" label="스승이다"/>
+      <edge id="23" source="백은배" target="안중식" label="영향을_준"/>
+      <edge id="24" source="안중식" target="조석진" label="교류한"/>
+      <edge id="25" source="이방운" target="김수철" label="영향을_준"/>
+      <edge id="26" source="이방운" target="한용간" label="영향을_준"/>
+      <edge id="27" source="이인상" target="윤제홍" label="영향을_준"/>
+      <edge id="28" source="이인상" target="김홍도" label="영향을_준"/>
+      <edge id="29" source="남계우" target="서병건" label="영향을_준"/>
+      <edge id="30" source="신위" target="신명연" label="영향을_준"/>
+      <edge id="31" source="신위" target="조희룡" label="영향을_준"/>
+      <edge id="32" source="장승업" target="안중식" label="스승이다"/>
+      <edge id="33" source="장승업" target="조석진" label="영향을_준"/>
+      <edge id="34" source="정선" target="최북" label="영향을_준"/>
+      <edge id="35" source="정선" target="김응환" label="영향을_준"/>
+      <edge id="36" source="정선" target="김홍도" label="영향을_준"/>
+      <edge id="37" source="정선" target="정수영" label="영향을_준"/>
+      <edge id="38" source="정선" target="심사정" label="스승이다"/>
+      <edge id="39" source="정선" target="김석신" label="영향을_준"/>
+      <edge id="40" source="조영석" target="김홍도" label="영향을_준"/>
+      <edge id="41" source="조영석" target="이인상" label="영향을_준"/>
+      <edge id="42" source="조영석" target="정선" label="교류한"/>
+      <edge id="43" source="한용간" target="신위" label="교류한"/>
+      <edge id="44" source="허련" target="허형" label="아버지다"/>
+      <edge id="45" source="허련" target="허백련" label="영향을_준"/>
+      <edge id="46" source="유숙" target="장승업" label="스승이다"/>
+      <edge id="47" source="김수철" target="전기" label="교류한"/>
+      <edge id="48" source="김수철" target="유재소" label="교류한"/>
+      <edge id="49" source="김수철" target="조희룡" label="교류한"/>
+      <edge id="50" source="김정희" target="전기" label="스승이다"/>
+      <edge id="51" source="김정희" target="허련" label="스승이다"/>
+      <edge id="52" source="김정희" target="유숙" label="스승이다"/>
+      <edge id="53" source="김정희" target="조중묵" label="영향을_준"/>
+      <edge id="54" source="김홍도" target="한용간" label="영향을_준"/>
+      <edge id="55" source="강세황" target="허필" label="영향을_준"/>
+      <edge id="56" source="강세황" target="김응환" label="교류한"/>
+      <edge id="57" source="강세황" target="최북" label="스승이다"/>
+      <edge id="58" source="강세황" target="윤제홍" label="영향을_준"/>
+      <edge id="59" source="강세황" target="정수영" label="영향을_준"/>
+      <edge id="60" source="이인문" target="김홍도" label="교류한"/>
+      <edge id="61" source="이인문" target="신위" label="교류한"/>
+      <edge id="62" source="조영석" target="남계우" label="영향을_준"/>
+      <edge id="63" source="조영석" target="강세황" label="교류한"/>
+      <edge id="64" source="이인상" target="정수영" label="영향을_준"/>
+      <edge id="65" source="이인상" target="이재관" label="영향을_준"/>
+      <edge id="66" source="이인상" target="김수철" label="영향을_준"/>
+      <edge id="67" source="유숙" target="전기" label="교류한"/>
+      <edge id="68" source="윤두서" target="심사정" label="영향을_준"/>
+      <edge id="69" source="윤두서" target="조영석" label="영향을_준"/>
+      <edge id="70" source="윤두서" target="정선" label="영향을_준"/>
+      <edge id="71" source="윤두서" target="김익주" label="영향을_준"/>
+      <edge id="72" source="윤두서" target="김홍도" label="영향을_준"/>
+      <edge id="73" source="윤두서" target="김득신" label="영향을_준"/>
+      <edge id="74" source="윤두서" target="이인문" label="영향을_준"/>
+      <edge id="75" source="김득신" target="최북" label="교류한"/>
+      <edge id="76" source="김득신" target="김응환" label="교류한"/>
+      <edge id="77" source="김득신" target="김석신" label="형이다"/>
+      <edge id="78" source="김후신" target="김홍도" label="교류한"/>
+      <edge id="79" source="정선" target="이방운" label="영향을_준"/>
+      <edge id="80" source="정선" target="윤제홍" label="영향을_준"/>
+      <edge id="81" source="정선" target="김유성" label="영향을_준"/>
+      <edge id="82" source="정선" target="정홍래" label="영향을_준"/>
+      <edge id="83" source="심사정" target="강세황" label="교류한"/>
+      <edge id="84" source="심사정" target="김응환" label="영향을_준"/>
+      <edge id="85" source="심사정" target="윤제홍" label="영향을_준"/>
+      <edge id="86" source="심사정" target="정수영" label="영향을_준"/>
+      <edge id="87" source="심사정" target="김유성" label="영향을_준"/>
+      <edge id="88" source="신위" target="김정희" label="교류한"/>
+      <edge id="89" source="신위" target="허련" label="영향을_준"/>
+      <edge id="90" source="장승업" target="허백련" label="영향을_준"/>
+      <edge id="91" source="장승업" target="백은배" label="교류한"/>
+      <edge id="92" source="전기" target="유재소" label="영향을_준"/>
+      <edge id="93" source="정조" target="김홍도" label="교류한"/>
+      <edge id="94" source="정조" target="김응환" label="교류한"/>
+      <edge id="95" source="김수철" target="허련" label="교류한"/>
+      <edge id="96" source="김수철" target="유숙" label="교류한"/>
+      <edge id="97" source="김수철" target="조중묵" label="교류한"/>
+      <edge id="98" source="김수철" target="이재관" label="영향을_준"/>
+      <edge id="99" source="최북" target="김홍도" label="교류한"/>
+      <edge id="100" source="최북" target="이인문" label="교류한"/>
+      <edge id="101" source="허필" target="강세황" label="영향을_준"/>
+      <edge id="102" source="허필" target="정선" label="교류한"/>
+      <edge id="103" source="허필" target="심사정" label="교류한"/>
+      <edge id="104" source="허필" target="최북" label="영향을_준"/>
+      <edge id="105" source="허필" target="조영석" label="교류한"/>
+      <edge id="106" source="김응환" target="김홍도" label="교류한"/>
+      <edge id="107" source="김응환" target="김석신" label="아버지다"/>
+      <edge id="108" source="이재관" target="김정희" label="교류한"/>
+      <edge id="109" source="김정희" target="유재소" label="스승이다"/>
+      <edge id="110" source="김정희" target="김수철" label="스승이다"/>
+      <edge id="111" source="김정희" target="신위" label="교류한"/>
+      <edge id="112" source="조희룡" target="전기" label="교류한"/>
+      <edge id="113" source="조희룡" target="이재관" label="교류한"/>
+      <edge id="114" source="이우" target="허목" label="교류한"/>
+      <edge id="115" source="이우" target="조속" label="교류한"/>
+      <edge id="116" source="유재소" target="전기" label="교류한"/>
+      <edge id="117" source="유재소" target="김수철" label="교류한"/>
+      <edge id="118" source="유재소" target="유숙" label="교류한"/>
+      <edge id="119" source="유재소" target="조중묵" label="교류한"/>
+      <edge id="120" source="이명기" target="김응환" label="교류한"/>
+      <edge id="121" source="이명기" target="김석신" label="매형이다"/>
+    </edges>
+  </graph>
+</gexf>
