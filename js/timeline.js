@@ -9,7 +9,7 @@ export async function createTimeline(containerId, dataUrl) {
     const popup = document.getElementById("popup-container");
     const frame = document.getElementById("popup-frame");
     // 작가 이름을 URL에 전달
-    const artistFileName = `artist_popup.html?artist=${encodeURIComponent(
+    const artistFileName = `https://seoyeonIm.github.io/infovis/artist_popup.html?artist=${encodeURIComponent(
       artistName
     )}`;
     frame.src = artistFileName; // iframe의 src 설정
