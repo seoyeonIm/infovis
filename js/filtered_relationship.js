@@ -4,7 +4,7 @@ import Graph from "https://cdn.jsdelivr.net/npm/graphology/dist/graphology.min.j
 document.addEventListener("DOMContentLoaded", async () => {
   // 1. HTML에서 현재 작가 이름 가져오기
   const titleElement = document.querySelector(".title").innerText.trim();
-  const jsonDataUrl = "/html/js/artist_relationship.js"; // JSON 경로
+  const jsonDataUrl = "https://seoyeonIm.github.io/infovis/js/artist_relationship.js"; // JSON 경로
 
   try {
     // 2. JSON 데이터 로드
