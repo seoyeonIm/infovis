@@ -1,4 +1,4 @@
-import { addHoverEffect } from "/js/hover_highlight_type.js";
+import { addHoverEffect } from "https://seoyeonIm.github.io/infovis/js/hover_highlight_type.js";
 
 // SVG 크기 설정
 const width = 1000;
@@ -31,7 +31,7 @@ svg.call(zoom);
 let simulation;
 
 // JSON 데이터 불러오기
-d3.json("/js/artwork_type.json")
+d3.json("https://seoyeonIm.github.io/infovis/js/artwork_type.json")
   .then((data) => {
     console.log(data); // JSON 데이터 로드 확인
     if (!data.nodes || !data.edges) {
