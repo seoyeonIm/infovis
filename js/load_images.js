@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
   console.log("현재 작가 이름 (artistName):", artistName);
 
   // JSON 파일 경로
-  const jsonFilePath = "https://seoyeonIm.github.io/infovis/js/artwork_link.json";
+  const jsonFilePath = "https://raw.githubusercontent.com/seoyeonIm/infovis/main/js/artwork_link.json";
 
   fetch(jsonFilePath)
     .then((response) => response.json())
